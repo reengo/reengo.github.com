@@ -17,12 +17,12 @@ Second to what I've considered to use was Ghost, nice UI and promising theming o
 
 As you can see, I've been trying out Markdown Syntax as well :D this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) helped me out. And yes, html tags still works. Its just like writing your content and coding your markup in plain text all at the same time! try it by running a local server and watch for updates as you type:
 
-{% capture text %}$ gem install jekyll
+{% highlight javascript %}
+$ gem install jekyll
 ~ $ jekyll new my-awesome-site
 ~ $ cd my-awesome-site
 ~/my-awesome-site $ jekyll serve
-{% endcapture %}
-{% include JB/liquid_raw %}
+{% endhighlight %}
 
 You can then open your browser and check your post at [http://localhost:4000](http://localhost:4000)
 
