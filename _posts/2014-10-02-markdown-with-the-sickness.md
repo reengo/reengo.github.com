@@ -11,9 +11,9 @@ I've been planning to try Blogging using Markdown on Jekyll for the longest time
 
 ##Trying out Markdown Blogging
 
-I wanted something really easy to implement and it seems like I've hit the sweetspot here. JekyllBootstrap is surprisingly easy to put up, checkout the [JekyllBootstrap.com](http://jekyllbootstrap.com/) if you want to see what I mean. Goodbye Dashboards and admin panels! Lets see how much more progress I make compared to writing on Wordpress :D
+I wanted something really easy to implement and it seems like I've hit the sweetspot here. JekyllBootstrap is surprisingly easy to put up, checkout the [JekyllBootstrap.com](http://jekyllbootstrap.com/) website if you want to see what I mean. My previous wp powered blog [The Code Monkey Blog](http://reengo.com) runs on 2012 tech. Front End was built on Zurb Foundation 2 and quite a bit of a mess on Javascript from countless experiments :D. Goodbye Dashboards and admin panels! Lets see how much more progress I make compared to writing on Wordpress :D
 
-Second to what I've considered to use was Ghost, nice UI and promising theming options. But I really didn't want to install anything else and simply use the same resources I use coding. I've also had a quick read on other Markdown parsing blog apps following through this [mashable post](http://mashable.com/2014/05/09/16-minimalist-blogging-platforms/). 
+Second to what I've considered using was Ghost, nice UI and promising theming options. But I really didn't want to install anything else and simply use the same resources I use when I code. I've also had a quick read on other Markdown parsing blog apps following through this [mashable post](http://mashable.com/2014/05/09/16-minimalist-blogging-platforms/). 
 
 As you can see, I've been trying out Markdown Syntax as well :D this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) helped me out. And yes, html tags still works. Its just like writing your content and coding your markup in plain text all at the same time! try it by running a local server and watch for updates as you type:
 
