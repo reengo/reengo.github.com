@@ -5,6 +5,7 @@ description: "Having a little fun with JekyllBootstrap"
 category: ['blogging']
 tags: ['jekyll', 'jekyll-bootstrap', 'markdown']
 ---
+
 {% include JB/setup %}
 
 I've been planning to try Blogging using Markdown on Jekyll for the longest time, I usually feel a quirky bit of arousal thinking about it until finally I've set one up using **Jekyll-Bootstrap** :D. I've had more than enough fun with Wordpress for years and I really wanted to move my blog out and start a different environment writing, until timingly, my site had been down for quite a while and triggered an erection :D 

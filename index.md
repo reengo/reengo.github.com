@@ -5,7 +5,7 @@ tagline: Homepage
 ---
 {% include JB/setup %}
 
-<ul>
+<ul class="posts">
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}"><strong>{{ post.title }} </strong></a> [ <small>{{ post.date }}</small> ]
