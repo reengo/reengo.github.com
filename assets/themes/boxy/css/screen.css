@@ -380,14 +380,16 @@ h3.widget-title{
 
 div.main aside.widget-area nav,
 div.main aside.widget-area div.fb-panel{
-	background:#000;
 	border-right:5px solid #222;	
 	border-bottom::5px solid #222;
-	color:#fff;
-	height:400px;
+	color:#333;
 }
 	div.main aside.widget-area ul {
 		list-style: none;
+		padding:0;
+	}
+	div.main aside.widget-area ul li{
+		margin:10px 0;
 	}
 	div.main aside.widget-area div.fb-panel{
 		background:#222;
@@ -396,7 +398,10 @@ div.main aside.widget-area div.fb-panel{
 		font:bold 15px Arial, Helvetica, sans-serif;
 		padding:5px 10px;
 		margin:0;
-		color:#fff;
+		color:#333;
+	}
+	aside.widget-area li.contact{
+		text-align: center;
 	}
 	aside.widget-area li.widget{
 		margin:0;

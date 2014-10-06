@@ -4,15 +4,7 @@ title: A New Code Monkey Blog has Arrived!
 tagline: Homepage
 ---
 {% include JB/setup %}
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}"><strong>{{ post.title }} </strong></a> [ <small>{{ post.date }}</small> ]
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% include themes/boxy/post-blocks.html %}
 
 ## To-Do
 
