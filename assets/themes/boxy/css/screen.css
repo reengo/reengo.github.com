@@ -11,7 +11,6 @@ header.main{
 	background: -ms-linear-gradient(top, rgba(252,252,252,1) 0%,rgba(242,235,234,1) 100%); /* IE10+ */
 	background: linear-gradient(to bottom, rgba(252,252,252,1) 0%,rgba(242,235,234,1) 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#f2ebea',GradientType=0 ); /* IE6-8 */
-	border-bottom:3px solid #c6065c;
 }	
 	header.main h1{margin:30px 0 0 0}
 	header.main img{border:none;}
@@ -39,8 +38,6 @@ header.main{
 	header.main nav li.active,
 	header.main nav li a:hover{background:#c6065c;}	
 	header.main nav li.active{
-		border-left:1px solid #e2f846;
-		border-right:1px solid #e2f846;	
 	}
 	header.main nav li.active a,
 	header.main nav li.active span,	
@@ -59,20 +56,17 @@ div.main{
 	div.main a{	color:#c6065c;}
 	div.main.home .content{
 		box-shadow: 0 1px 0 rgba(255, 255, 255, 0.4) inset, 0 0 0 1px rgba(0, 0, 0, 0.15) inset, 0 1px 1px rgba(0, 0, 0, 0.2);
-		border-right:1px solid #222;
 	}
 
 	/* sections default */
 	div.main section{
 		padding:10px;
-		border-left:1px solid #999;
-		border-top:1px solid #999;
 		background:#ececec;
 	}
 	div.main section:hover {
 		background:#cacaca;
 	}
-	div.main section.load-more{border-bottom:1px solid #999;}
+	div.main section.load-more{}
 	div.main section.load-more:hover{}
 		div.main section.load-more{
 			padding:20px;
@@ -142,7 +136,6 @@ div.main div.welcome h1{
 div.main div.home-chrome{
 	margin-bottom:10px;
 	padding:5px;
-	border:1px solid #333;
 	background:#ececec;
 }
 
@@ -313,11 +306,9 @@ div.main article.post section.load-more{
 	background:none;
 	background:transparent;
 	border:none;
-	border-top:1px solid #cacaca;
 	line-height:22px;
 }	
 div.main article.post section.load-more{
-	border-bottom:2px solid #cacaca;
 }
 div.main article.post section.load-more:hover{
 	background:#ececec;
@@ -380,8 +371,6 @@ h3.widget-title{
 
 div.main aside.widget-area nav,
 div.main aside.widget-area div.fb-panel{
-	border-right:5px solid #222;	
-	border-bottom::5px solid #222;
 	color:#333;
 }
 	div.main aside.widget-area ul {
@@ -409,7 +398,6 @@ div.main aside.widget-area div.fb-panel{
 	aside.widget-area li.widget{
 		background:#573615;
 		list-style:none;
-		border:5px solid #222;
 		border-bottom:none;
 		display:block;
 		font:bold 12px Arial, Helvetica, sans-serif;
@@ -443,7 +431,6 @@ div.main aside.widget-area div.fb-panel{
 		aside.widget-area li.widget.active-subnav{
 			width:100%;
 			background:#C6065C;
-			border:1px solid #C6065C;
 			border-bottom:2px solid #C6065C;
 			border-top:none;
 			margin-top:5px;
