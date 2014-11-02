@@ -1,0 +1,19 @@
+---
+author: admin
+comments: true
+date: 2005-12-07 16:06:00+00:00
+layout: post
+published: false
+slug: '115'
+title: '.....'
+wordpress_id: 115
+categories:
+- code-review-on-life
+- RIDE
+---
+
+and so it ended...
+
+... and in the end... I lost...
+
+...

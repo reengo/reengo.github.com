@@ -1,0 +1,24 @@
+---
+author: admin
+comments: true
+date: 2011-12-01 19:31:07+00:00
+layout: post
+slug: kung-fu-ca
+title: Kung-Fu Cat!
+wordpress_id: 1162
+categories:
+- code-review-on-life
+post_format:
+- Video
+---
+
+I dont know why, but this one almost made me laugh my guts out. :D
+
+
+<iframe width="100%" height="315" src="//www.youtube.com/embed/fHT2yiFJjqI" frameborder="0" allowfullscreen></iframe>
+
+Oh, and I get to try a plugin called WP-SWFObject's cool SWF short codes, I just wrote the youtube path inside a [SWF] short code tag.
+
+<iframe width="100%" height="315" src="//www.youtube.com/embed/opGVNLImgw4" frameborder="0" allowfullscreen></iframe>
+
+Cats... cats everywhere!

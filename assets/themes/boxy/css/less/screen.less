@@ -1,0 +1,480 @@
+/* Homepage Welcome - Social Box */
+
+div.main div.welcome h1{
+	margin:5px 0;
+	font:bold 24px Helvetica;
+}
+
+div.main div.home-chrome{
+	margin-bottom:10px;
+	padding:5px;
+	background:#ececec;
+}
+
+
+/*  Carousel Section */
+section.carousel{
+	background:#fce6d3;
+	height:400px;
+}
+	section.carousel .carousel-button{
+		position:absolute;
+		top:40%;
+		display:none; /* initally hidden */
+	}
+		section.carousel .carousel-button a{
+			display:block;
+			padding:10px;
+			margin:5px;
+			border:1px solid #333;
+			background:#222;
+			color:#fff;
+			font:bold 12px Arial, Helvetica, sans-serif;
+			opacity: 0.7;
+			-moz-opacity: 0.7;
+			filter:alpha(opacity=7);
+		}
+		section.carousel .carousel-button a:hover{
+			background:#c6065c;
+			border:1px solid #fff;
+		}
+	section.carousel .prev{left:0}
+	section.carousel .next{right:0}
+	section.carousel figure{
+		margin:0px 10px;
+		border:5px solid #333;
+	}		
+	section.carousel.active figure{border:5px solid #222;}
+	section.carousel figcaption{
+		margin:-64px 0 0 0;
+		background:#2b1009;
+		opacity: 0.8;
+		-moz-opacity: 0.8;
+		filter:alpha(opacity=8);
+		padding:10px;
+	}
+	section.carousel.active figcaption{background:#000;}			
+		section.carousel figcaption h3{
+			font:bold 16px Arial, Helvetica, sans-serif;
+			color:#fff;
+			margin:0;
+		}
+		section.carousel.active figcaption h3{}
+		section.carousel figcaption p{
+			font:normal 12px Arial, Helvetica, sans-serif;
+			color:#eee;
+			margin:0;
+			text-overflow: ellipsis; /* will make [...] at the end */
+		    white-space: nowrap; /* paragraph to one line */
+		    overflow:hidden;
+		}
+		section.carousel.active figcaption p{}			
+		
+	section.carousel footer{
+		margin:0 15px;
+		padding:2px 15px;
+	}
+		section.carousel footer span,
+		section.carousel footer time,
+		section.carousel footer address{}
+
+/* Box Section */
+section.box,
+section.box.active{
+	height:400px;
+	overflow:hidden;
+}
+	section.box p{
+		margin:0;
+		overflow:hidden;
+	}
+	section.box.active p{margin:0;}
+	section.box span.more{
+		float:right;
+	}
+	section.box h3,
+	section.box.active h3{
+		font:bold 18px Arial, Helvetica, sans-serif;
+		color:#fff;
+		margin:5px 0;
+		line-height:18px;
+	}
+	section.box.active h3{}
+		section.box div span,
+		section.box div time,
+		section.box div address{display:inline;}
+	
+	section.box footer{		
+		padding:5px 0;
+		width:100%;
+	}	
+	section.box figure,
+	section.box.active figure{
+		width:100%;
+		height:200px;
+		overflow:hidden;
+	}
+	section.box footer div{	
+		position:absolute;
+		top:185px;
+	}
+	section.box div.fb-like{
+		position:absolute;
+		top:175px;	
+		display:none;	
+	}
+	section.box div.like-convert{top:370px;}
+	section.box div.details-convert{top:370px;}
+	section.box div.video-thumbs{
+		display:none;
+	}
+		section.box div.video-thumbs img{padding:5px;}
+	section.box nav.post-stats{		
+		position:absolute;
+		top:365px;
+		right:10px;
+	}
+/* Small Box Section */
+section.small-box{height:200px;}
+	section.small-box p{
+		line-height:22px;
+		margin:0;
+		display:none;	
+		width:200px;	
+	}
+	section.small-box.active p{width:200px;}
+	section.small-box h3{
+		font:bold 16px Arial, Helvetica, sans-serif;
+		color:#fff;
+		margin:5px 0;
+		line-height:18px;
+	}
+	section.small-box nav.post-stats,
+	section.small-box div.fb-like{
+		position:absolute;
+		top:165px;
+	}
+	section.small-box nav.post-stats{right:10px;}
+	section.small-box div.fb-like{left:10px;}
+	section.small-box div.video-thumbs{display:none;}
+	section.small-box div.post-details{visibility:hidden;}
+	section.small-box span.more{display:none;}
+
+/* Skyscraper Section */
+section.skyscraper{height:400px;}
+	section.skyscraper h3{
+		font:bold 16px Arial, Helvetica, sans-serif;
+		color:#fff;
+		margin:5px 0;
+		line-height:22px;
+	}
+
+
+/* Listing Section */
+div.main section.listing,
+div.main section.listing.active,
+div.main article.post section.load-more{	
+	overflow:hidden;
+	background:none;
+	background:transparent;
+	border:none;
+	line-height:22px;
+}	
+div.main article.post section.load-more{
+}
+div.main article.post section.load-more:hover{
+	background:#ececec;
+}
+	div.main section.listing:hover{
+		background:#ececec;
+	}
+	section.listing p{
+		margin:0 0 0 1em;
+		overflow:hidden;
+	}
+	section.listing.active p{margin:0 0 0 1em;}
+	section.listing span.more{display:none;}
+	section.listing.active span.more{
+		text-align:right;
+		display:block;
+	}
+	section.listing h3,
+	section.listing.active h3{
+		font:bold 1.5em Arial, Helvetica, sans-serif;
+		color:#fff;
+		margin:5px 10px;
+		line-height:18px;
+	}
+	section.listing.active h3{}
+		section.listing div span,
+		section.listing div time,
+		section.listing div address{display:inline;}
+	
+	section.listing footer{		
+		padding:20px 0 0 0;
+		width:100%;
+	}	
+	section.listing figure,
+	section.listing.active figure{overflow:hidden;}
+	section.listing footer div{	
+	}
+	section.listing div.fb-like{display:none;}
+	section.listing div.video-thumbs{width:100%;}
+	section.listing nav.post-stats{right:0;}
+	section.listing footer div{font:italic 11px verdana;}
+	section.listing footer div a{color:#aaa;}
+
+nav.post-carousel{
+	list-style:none;
+	margin:0 auto;
+	text-align:center;
+}
+	nav.post-carousel ul li{
+		display:inline-block;
+		font:bold 20px Arial, Helvetica, sans-serif;
+	}
+/* Widgets Sidebar */
+
+h3.widget-title{
+	color:#c6065c;
+}
+
+/* Sidebar Styles  */
+
+div.main aside.widget-area nav,
+div.main aside.widget-area div.fb-panel{
+	color:#333;
+}
+	div.main aside.widget-area ul {
+		list-style: none;
+		padding:0;
+	}
+	div.main aside.widget-area ul li{
+		margin:10px 0;
+	}
+	div.main aside.widget-area div.fb-panel{
+		background:#222;
+	}
+	aside.widget-area h2{
+		font:bold 15px Arial, Helvetica, sans-serif;
+		padding:5px 10px;
+		margin:0;
+		color:#333;
+	}
+	aside.widget-area li.contact{
+		text-align: center;
+	}
+	aside.widget-area li.widget{
+		margin:0;
+	}
+	aside.widget-area li.widget{
+		background:#573615;
+		list-style:none;
+		border-bottom:none;
+		display:block;
+		font:bold 12px Arial, Helvetica, sans-serif;
+	}
+	aside.widget-area li.widget ul{
+		padding:5px 15px;
+		color:#fff;
+		display:block;
+		font:bold 12px Arial, Helvetica, sans-serif;	
+	}
+		aside.widget-area li.widget ul{	
+			margin:0;
+			list-style:none;
+		}
+			aside.widget-area li.widget ul li{
+				background:#54260d;
+				border:none;
+				border-bottom:none;
+				border-top:none;
+				text-indent:15px;
+			}
+			aside.widget-area li.widget ul li a{
+				color:#fff;
+				display:block;
+				padding:3px 5px;
+				font:normal 12px Arial, Helvetica, sans-serif;
+			}
+			aside.widget-area li.widget ul li a:hover{			
+				color:#C6065C;
+			}
+		aside.widget-area li.widget.active-subnav{
+			width:100%;
+			background:#C6065C;
+			border-bottom:2px solid #C6065C;
+			border-top:none;
+			margin-top:5px;
+		}
+			aside.widget-area li.widget.active-subnav a{
+				color:#fff;
+			}
+	/*aside.widget-area li.widget_categories ul{
+		margin:0;
+	}
+		aside.widget-area li.widget_categories ul li.cat-item{
+			background:url(../images/icon-sprite.png) top left no-repeat;
+			padding:0 0 0 25px;
+		}
+		aside.widget-area li.widget_categories ul li.cat-item{
+			background-position:0 -110px;
+		}
+			aside.widget-area li.widget_categories ul li.cat-item:hover,
+			aside.widget-area li.widget_categories ul li.cat-item.active{
+				background-position:0 -88px;
+			}*/
+
+/* Single Post/Page Styles  */
+
+div.main.single .content{
+	background:transparent;
+}
+article.post{
+	background:transparent;
+	line-height:18px;
+	padding-right:20px;
+}
+	div.main article.post section{
+		padding:10px;
+	}
+	article.post header{
+		padding:1em 0;
+	}
+	div.main article.post section header{
+		padding:0;
+	}
+	article.post h1{
+		color:#c6065c;
+		font:bold 2em arial;
+		margin:0;
+	}
+	article.post div.entry-content{
+		margin-bottom:50px;
+	} 
+		article.post div.entry-content p{
+			padding:0;
+		}
+	article.post div.post-details{
+		margin:0 0 20px 0;
+	}
+	article.post footer.entry-meta{
+		padding:1em 3em 1em 3em;
+		font:italic 11px verdana;
+	}
+		article.post footer.entry-meta a{
+			color:#aaa;
+		}
+div#author-info{
+	border: 1px dotted #222;
+	border-radius: 5px;
+	padding: 1em 2em;
+	margin: 2em 0;
+	background: #ececec;
+}
+	div#author-info div#author-avatar{
+		float:left;
+		margin:0 1em 1em 0;
+	}
+		div#author-info div#author-avatar img{
+			border-radius: 48px;
+			border: 2px solid #333;
+		}
+	div#author-info div#author-description{
+		padding-left:7em;
+		font:normal 1em arial;
+		line-height: 1.5em;		
+		color:#333;
+	}
+		div#author-info div#author-description h2{
+			font:bold 1em arial;
+			color:#333;		
+			margin:0;	
+		}
+div#comments{
+	padding:10px;
+}
+	div#comments ol.commentlist{
+		list-style: none;
+		margin:0 0 0 50px;
+	}
+	div#comments h2{
+		font:bold 20px arial;
+		color:#fff;
+		margin:20px;
+	}
+		div#comments article.comment{
+			padding:10px;
+			margin:10px 0;		
+			border-radius:5px;
+		}
+		div#comments div.comment-author img{
+			float:left;
+			margin:0 1em 2em 0;
+			border:2px solid #aaa;
+			-webkit-box-shadow:0 5px 15px rgba(50, 50, 50, 0.75);
+			-moz-box-shadow:0 5px 15px rgba(50, 50, 50, 0.75);
+			box-shadow:0 5px 15px rgba(50, 50, 50, 0.75);
+			background:#fff;
+		}
+		div#comments div.comment-author span.fn{
+			font:bold 22px arial;
+			margin:0 10px 0 0 ;
+		}
+		div#comments div.comment-author time{
+			font:normal 12px arial;
+		}
+		div#comments div.comment-content{
+			min-height:70px;
+			background:#777;
+			padding:5px 5px 1px 5em;
+			margin:0.5em 0 0 1em;
+			color:#000;
+		}
+div#respond{
+	padding:2em 4em;
+	float:left;
+	width: 100%;
+}
+	div#respond h3#reply-title{
+		margin:0;
+		color:#333;
+	}
+		div#respond form input#author,
+		div#respond form input#email,
+		div#respond form input#url,
+		div#respond form textarea{
+			background:#ececec;
+			color:#333;
+			margin:0;
+			border:1px dotted #cacaca;
+		}
+		div#respond form input#submit{display:none;}
+	div#respond p.form-allowed-tags{
+		color:#333;
+		font:normal 11px arial;
+	}
+	div#respond p{margin:0}
+	div#respond code{
+		display:none;
+	}
+aside aside{ padding: 0 10px; }
+
+ul.posts{
+	padding: 0 !important;
+	list-style: none !important;
+}
+
+.navbar{
+	margin: 0;
+	border: none;
+}
+
+/* Misc Styles */
+
+pre{
+	padding: 10px !important;
+	margin: 10px 0 !important;
+	border: 2px dashed #ccc;
+	background: #ececec;
+}

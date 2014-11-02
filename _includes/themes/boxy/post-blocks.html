@@ -1,17 +1,11 @@
-<ul class="posts">
+<ul id="postListing" class="posts">
   {% for post in site.posts %}
-    <li>
-    	<section class="box">
-    		<figure>
-	    		<img src="http://ringo.ph/img/reengo.png" class="img-thumbnail img-responsive" />
-	    	</figure>
-	    	<div>
-	    		<h3 class="entrytitle"><a href="{{ post.url }}"><strong>{{ post.title }} </strong></a> <small class="lead">- {{ post.category }}</small> </h3>
-	    		<p>[ <small>{{ post.date }}</small> ]</p>
+    <li class="box">
+		<h3 class="entrytitle"><a href="{{ post.url }}"><strong>{{ post.title }} </strong></a> </h3>
+		<p>[ <small>{{ post.date }}</small> ] <small class="lead">- {{ post.categories }}</small></p>
 
-	    		<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-	    	</div>
-    	</section>
+		<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
     </li>
   {% endfor %}
+  <li><button class="next btn btn-primary btn-block">Load More Posts...</button></li>
 </ul>

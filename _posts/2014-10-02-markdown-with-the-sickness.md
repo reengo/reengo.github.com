@@ -3,7 +3,7 @@ layout: post
 title: "Markdown Boy! Down!"
 description: "Having a little fun with JekyllBootstrap"
 category: ['blogging']
-tags: ['jekyll', 'jekyll-bootstrap', 'markdown']
+tags: ['jekyll', 'jekyll-bootstrap', 'markdown','blogging']
 ---
 
 {% include JB/setup %}

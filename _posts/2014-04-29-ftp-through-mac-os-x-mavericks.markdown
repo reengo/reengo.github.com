@@ -1,20 +1,25 @@
 ---
+author: admin
+comments: true
+date: 2014-04-29 19:31:19+00:00
 layout: post
-title: "FTP through Mac OS X Mavericks"
+slug: ftp-through-mac-os-x-mavericks
+title: FTP through Mac OS X Mavericks
 description: "On a unix based web server, you need to run and enable FTP to update the wordpress stack, themes or plugins."
-category: ['blogging','wordpress','ftp','mac','osx','mavericks']
-tags: ['jekyll', 'jekyll-bootstrap', 'markdown']
+tags: ['blogging','wordpress','ftp','mac','osx','mavericks']
+wordpress_id: 1659
+categories:
+- code-review-on-life
+- Tutorials
+- Web Development
 ---
-
-{% include JB/setup %}
 
 On a unix based web server, you need to run and enable FTP to update the wordpress stack, themes or plugins. This is the reason why you get permission errors when you do so on Mac OSX Mavericks. you would need to run the following command:
 
-```shell
-sudo -s launchctl load -w /System/Library/LaunchDaemons/ftp.plist
-```
+    sudo -s launchctl load -w /System/Library/LaunchDaemons/ftp.plist
+
 Alternately, you can unload it running this command:
-```shell
-sudo -s launchctl unload -w /System/Library/LaunchDaemons/ftp.plist
-```
+
+    sudo -s launchctl unload -w /System/Library/LaunchDaemons/ftp.plist
+    
 Enjoy.
