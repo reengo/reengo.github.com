@@ -7,7 +7,7 @@ slug: where-was-the-weekend-part-1-of-2
 title: Where was the Weekend? Part 1 of 2
 wordpress_id: 148
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Oyash, T'was a really long weekend indeed. Tsktsk...but it was fun. only tiring though.

@@ -7,7 +7,7 @@ slug: r
 title: R
 wordpress_id: 28
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Galing light, ako gaya...

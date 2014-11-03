@@ -7,7 +7,7 @@ slug: bring-it-on
 title: Bring it On!!!
 wordpress_id: 180
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Yup this friday sure is hectic! I really don't know if I should celebrate or not! ehehe.

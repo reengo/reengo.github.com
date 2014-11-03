@@ -7,9 +7,9 @@ slug: '426'
 title: 'Bollywood Pepper '
 wordpress_id: 426
 categories:
-- All-Pepper
+- All Pepper
 tags:
-- All-Pepper
+- All Pepper
 ---
 
 [caption id="attachment_425" align="aligncenter" width="544" caption="Bollywood "][![And Diyosa](http://www.reengo.com/wp-content/uploads/2010/01/diyosa.jpg)](http://www.reengo.com/wp-content/uploads/2010/01/diyosa.jpg)[/caption]

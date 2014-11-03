@@ -8,7 +8,7 @@ slug: title-3
 title: '##TITLE##'
 wordpress_id: 847
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 ##CONTENT##

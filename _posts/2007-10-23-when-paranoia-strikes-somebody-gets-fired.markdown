@@ -8,7 +8,7 @@ slug: when-paranoia-strikes-somebody-gets-fired
 title: "\tWhen Paranoia Strikes, Somebody Gets Fired!"
 wordpress_id: 150
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Last night... it wasn't full moon... but a werewolf appeared at the orange house. tsktsk. she huff and puff and nearly blew the house down... ehehe.

@@ -8,7 +8,7 @@ slug: day-57-58-kwatro
 title: 'Day 57 & 58: Kwatro'
 wordpress_id: 113
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

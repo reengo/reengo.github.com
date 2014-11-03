@@ -8,7 +8,7 @@ slug: day-7-sachikos-voice-again
 title: 'Day 7: Sachiko''s Voice Again...'
 wordpress_id: 76
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

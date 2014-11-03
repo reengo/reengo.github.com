@@ -8,7 +8,7 @@ slug: day-20-pickup-thai-stuff
 title: 'Day 20: Pickup Thai Stuff'
 wordpress_id: 83
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

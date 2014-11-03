@@ -7,7 +7,7 @@ slug: pinoy-henyo
 title: Pinoy Henyo?
 wordpress_id: 164
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Wait 

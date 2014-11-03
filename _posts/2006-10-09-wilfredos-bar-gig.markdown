@@ -7,7 +7,7 @@ slug: wilfredos-bar-gig
 title: Wilfredo's Bar Gig
 wordpress_id: 193
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Friday | 10:00pm

@@ -7,7 +7,7 @@ slug: where-was-the-weekend-part-2-of-2
 title: Where was the Weekend? Part 2 of 2
 wordpress_id: 146
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Chillin at Jill's Birthday Fartie! |  Saturday Approx.11:00pm

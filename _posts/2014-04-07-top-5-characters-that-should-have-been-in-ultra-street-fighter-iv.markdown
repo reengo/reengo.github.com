@@ -8,7 +8,7 @@ title: Top 5 Characters That Should Have Been in Ultra Street Fighter IV
 wordpress_id: 1504
 categories:
 - Blog
-- code-review-on-life
+- Code Review on Life
 - Games
 post_format:
 - Gallery

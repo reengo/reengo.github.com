@@ -8,7 +8,7 @@ slug: '139'
 title: No Content Found
 wordpress_id: 139
 categories:
-- code-review-on-life
+- Code Review on Life
 - Teenage-Angst-Brigade
 ---
 

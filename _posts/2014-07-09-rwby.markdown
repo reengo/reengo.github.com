@@ -8,7 +8,7 @@ title: RWBY
 wordpress_id: 1679
 categories:
 - anime
-- code-review-on-life
+- Code Review on Life
 post_format:
 - Gallery
 ---

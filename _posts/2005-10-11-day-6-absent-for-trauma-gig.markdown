@@ -8,7 +8,7 @@ slug: day-6-absent-for-trauma-gig
 title: 'Day 6: Absent for Trauma Gig?'
 wordpress_id: 82
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

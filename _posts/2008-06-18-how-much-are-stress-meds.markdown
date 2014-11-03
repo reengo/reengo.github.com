@@ -7,7 +7,7 @@ slug: how-much-are-stress-meds
 title: How much are stress meds?
 wordpress_id: 7
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 [![](http://images.laszio.multiply.com/image/1/photos/upload/300x300/SFluigoKCBkAAAswMRI1/computing_stress.jpg?et=%2C9Di7hd0KX2o%2BFG8PIQCsA&nmid=0)](http://laszio.multiply.com/photos/hi-res/upload/SFluigoKCBkAAAswMRI1)last week, I was getting tired... drive running out.. tardiness becomes a necessity... sheesh. I think its the time where we feel like we are useless... My PA takes forever to  approve... When would I get the adjustment that I long for? When would my family be satisfied with what I give? When would I see the light of day.. (andrama ampotah!) Is this stress? or am I just Craving for attention? KSP? emo? tsktsk... I feel like all things that I do are wasted efforts... cause people don't notice..

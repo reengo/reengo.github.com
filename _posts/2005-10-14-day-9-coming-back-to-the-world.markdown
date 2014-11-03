@@ -8,7 +8,7 @@ slug: day-9-coming-back-to-the-world
 title: 'Day 9: Coming Back to the World'
 wordpress_id: 74
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

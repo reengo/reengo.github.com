@@ -8,7 +8,7 @@ slug: day-17-disappointed
 title: 'Day 17: Disappointed...'
 wordpress_id: 65
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

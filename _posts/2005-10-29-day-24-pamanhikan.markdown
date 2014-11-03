@@ -8,7 +8,7 @@ slug: day-24-pamanhikan
 title: 'Day 24: Pamanhikan'
 wordpress_id: 86
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -7,7 +7,7 @@ slug: meet-the-brown-lucy-liu
 title: Meet the Brown Lucy Liu
 wordpress_id: 184
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 At the MRT, On my way home, A guy sitting next to me was reading an Inquirer LIBRE Newspaper (free newspaper for mrt riders". As he flips on the pages, I saw this article with a catchy title... "Meet the Brown Lucy Liu"... pak it! did Lucy Liu had a tan or something? ehehe. And then I saw the pictures... suddenly I recognized the girl at the left. WTF! its Dennile Lou Valmonte! Binibining Pilipinas International 2006!

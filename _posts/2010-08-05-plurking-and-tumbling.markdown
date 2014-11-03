@@ -7,7 +7,7 @@ slug: plurking-and-tumbling
 title: Plurking and Tumbling
 wordpress_id: 470
 categories:
-- code-review-on-life
+- Code Review on Life
 - Tutorials
 tags:
 - karma

@@ -8,7 +8,7 @@ slug: day-45-savoring-the-feel-of-studentry
 title: 'Day 45: SAvoring the feel of Studentry'
 wordpress_id: 94
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

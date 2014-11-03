@@ -8,7 +8,7 @@ slug: day-1-it-has-begun
 title: 'Day 1: It has Begun...'
 wordpress_id: 77
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

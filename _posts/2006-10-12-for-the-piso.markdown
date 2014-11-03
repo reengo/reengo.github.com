@@ -7,7 +7,7 @@ slug: for-the-piso
 title: For the Piso
 wordpress_id: 190
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 On my way to work, eto nasaksihan ko...

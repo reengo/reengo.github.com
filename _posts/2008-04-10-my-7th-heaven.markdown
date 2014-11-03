@@ -7,8 +7,8 @@ slug: my-7th-heaven
 title: My 7th Heaven
 wordpress_id: 18
 categories:
-- code-review-on-life
-- All-Pepper
+- Code Review on Life
+- All Pepper
 ---
 
 My 7th Heaven

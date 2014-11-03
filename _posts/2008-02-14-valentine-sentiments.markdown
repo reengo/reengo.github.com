@@ -7,7 +7,7 @@ slug: valentine-sentiments
 title: Valentine Sentiments
 wordpress_id: 19
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Random thoughts... parang utot....

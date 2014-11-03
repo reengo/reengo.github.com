@@ -7,8 +7,8 @@ slug: a-touching-weekend
 title: A Touching Weekend
 wordpress_id: 13
 categories:
-- code-review-on-life
-- All-Pepper
+- Code Review on Life
+- All Pepper
 ---
 
 **Friday

@@ -8,7 +8,7 @@ slug: day-14-textmate
 title: 'Day 14: Textmate?'
 wordpress_id: 68
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -7,7 +7,7 @@ slug: hyperactivity-eh
 title: Hyperactivity Eh?
 wordpress_id: 168
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 First off, my head hurts. I've been doing so many stuff lately that I only have about 4 hours to spend thinking about myself, and thats my travel time to and from work everyday! and to top it all off I had a really REALLY serious reprimand from motojime sakura this morning. syit.

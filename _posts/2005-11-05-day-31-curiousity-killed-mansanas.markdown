@@ -8,7 +8,7 @@ slug: day-31-curiousity-killed-mansanas
 title: 'Day 31: .... Curiousity Killed Mansanas...'
 wordpress_id: 105
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

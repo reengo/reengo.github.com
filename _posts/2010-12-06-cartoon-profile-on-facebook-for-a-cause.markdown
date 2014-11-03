@@ -7,7 +7,7 @@ slug: cartoon-profile-on-facebook-for-a-cause
 title: Cartoon Profile on Facebook for a Cause
 wordpress_id: 829
 categories:
-- code-review-on-life
+- Code Review on Life
 tags:
 - campaign
 - facebook

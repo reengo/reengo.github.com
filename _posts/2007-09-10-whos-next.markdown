@@ -7,7 +7,7 @@ slug: whos-next
 title: Who's Next
 wordpress_id: 154
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Its my last week at the office... the last week working my ass off for annoying clients... the last week of playing loud ska music while working... the last week of working with friends...

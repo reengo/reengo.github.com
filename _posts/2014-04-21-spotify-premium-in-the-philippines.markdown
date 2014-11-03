@@ -7,7 +7,7 @@ slug: spotify-premium-in-the-philippines
 title: Spotify Premium in the Philippines
 wordpress_id: 1583
 categories:
-- code-review-on-life
+- Code Review on Life
 tags:
 - music
 - music streaming

@@ -8,7 +8,7 @@ slug: day-42-first-day-funk
 title: 'Day 42: First Day Funk'
 wordpress_id: 92
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -8,7 +8,7 @@ slug: day-15-dreams-of-sachiko-in-thailand
 title: 'Day 15: Dreams of Sachiko in Thailand'
 wordpress_id: 67
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

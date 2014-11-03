@@ -8,7 +8,7 @@ slug: day-55-comments-from-friends
 title: 'Day 55: Comments from Friends'
 wordpress_id: 110
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

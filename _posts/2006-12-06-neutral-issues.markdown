@@ -7,7 +7,7 @@ slug: neutral-issues
 title: Neutral Issues
 wordpress_id: 174
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Lately we've been having issues with the band... but I guess its better to have these kind of problems early on, atleast we could have a more solid foundation when it gets resolved, that is IF it gets resolved!

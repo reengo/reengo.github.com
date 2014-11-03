@@ -8,7 +8,7 @@ title: Tranquility
 wordpress_id: 1551
 categories:
 - Blog
-- code-review-on-life
+- Code Review on Life
 - Prismatic Orb
 tags:
 - comics

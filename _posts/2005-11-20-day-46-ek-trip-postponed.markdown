@@ -8,7 +8,7 @@ slug: day-46-ek-trip-postponed
 title: 'Day 46: EK Trip Postponed'
 wordpress_id: 95
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

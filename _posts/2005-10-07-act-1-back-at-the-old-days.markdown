@@ -10,7 +10,7 @@ wordpress_id: 131
 categories:
 - 2-Months-in-Oblivion
 - Articles
-- code-review-on-life
+- Code Review on Life
 ---
 
 And so... it ended. or maybe not. What began on October 6 would end at the 7th of December. Michiko decided to take the 2 month exile that she wanted. Exile, in the sense that she will move farther away from the 2 hopefuls who desperately wanted to be with her. She needed that 2 months to finally make up her mind. She couldn't be trapped in a concealed place of unearthly confusion for the rest of her life. She needed to know something... She needed to know how she was feeling, and if the feeling is right. What path she really wanted to take... she needed 2 months to decide.  

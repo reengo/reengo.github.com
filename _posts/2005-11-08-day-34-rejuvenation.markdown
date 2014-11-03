@@ -8,7 +8,7 @@ slug: day-34-rejuvenation
 title: 'Day 34: Rejuvenation'
 wordpress_id: 107
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

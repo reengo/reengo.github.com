@@ -7,7 +7,7 @@ slug: my-immortal-cellphone
 title: My Immortal Cellphone
 wordpress_id: 5
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 I nearly lost my precious cellphone this week... luckily, there are still some kindness and honesty left among taxi drivers around makati...

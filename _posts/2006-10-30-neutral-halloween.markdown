@@ -7,7 +7,7 @@ slug: neutral-halloween
 title: Neutral Halloween
 wordpress_id: 178
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Monday, No Work, Yeahbah!

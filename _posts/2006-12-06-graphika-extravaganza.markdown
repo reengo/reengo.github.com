@@ -7,7 +7,7 @@ slug: graphika-extravaganza
 title: Graphika Extravaganza
 wordpress_id: 172
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Syet, I woke up late, it was around 8am when I stood up and took breakfast. it would take me 2+ hours to get to Mall of Asia and I was still not moving my ass off. anyways I knew that the program wont actually start at 10am since filipino time is always an hour late. ehehe. however, my body still refuses to hurry up. I came to Mall of Asia at 11:30.

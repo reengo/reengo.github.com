@@ -8,8 +8,8 @@ slug: a-cat-in-a-cage
 title: A Cat in a Cage
 wordpress_id: 8
 categories:
-- code-review-on-life
-- All-Pepper
+- Code Review on Life
+- All Pepper
 ---
 
 [![](http://images.laszio.multiply.com/image/1/photos/upload/300x300/SFlkZAoKCBkAAFC-gMY1/cat-in-cage.jpg?et=ZvgoW1L1Uk6Y7K5OfIG9pA&nmid=0)](http://laszio.multiply.com/photos/hi-res/upload/SFlkZAoKCBkAAFC-gMY1)Problems with Old Maid Aunts (later refered to as OMAs) arise once again... and somehow, it is now causing psychological harm to my kittie... why wouldn't they just let their niece be!? she's old enough to do whatever she wants for crying out loud...! tsktsk.

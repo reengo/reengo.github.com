@@ -7,8 +7,8 @@ slug: moving-forward-with-mobile-web
 title: Moving Forward With Mobile Web
 wordpress_id: 1601
 categories:
-- code-review-on-life
-- Front-End-Web
+- Code Review on Life
+- Front End Web
 - Tutorials
 - Web Development
 tags:

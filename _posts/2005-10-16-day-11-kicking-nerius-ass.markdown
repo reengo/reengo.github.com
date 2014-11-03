@@ -8,7 +8,7 @@ slug: day-11-kicking-nerius-ass
 title: 'Day 11: Kicking Nerius'' Ass!'
 wordpress_id: 73
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

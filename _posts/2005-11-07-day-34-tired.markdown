@@ -8,7 +8,7 @@ slug: day-34-tired
 title: 'Day 34: tired...'
 wordpress_id: 106
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -7,7 +7,7 @@ slug: nagsasa-cove-zambales-2nd-round
 title: Nagsasa Cove, Zambales
 wordpress_id: 474
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 no need to get into the details. the pictures speak for themselves

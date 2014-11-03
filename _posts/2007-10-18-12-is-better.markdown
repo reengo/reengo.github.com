@@ -7,7 +7,7 @@ slug: 12-is-better
 title: 12 is Better
 wordpress_id: 152
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Tagged...

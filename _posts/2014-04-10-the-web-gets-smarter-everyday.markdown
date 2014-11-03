@@ -8,7 +8,7 @@ title: The Web Gets Smarter Everyday
 wordpress_id: 1115
 categories:
 - Blogging
-- code-review-on-life
+- Code Review on Life
 - Tutorials
 tags:
 - instagram

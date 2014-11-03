@@ -7,7 +7,7 @@ slug: a-call-for-change
 title: A Call for Change
 wordpress_id: 14
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 [A Call for Change Flash Movie](http://reenworx.com/blog/wp-content/uploads/2008/05/bscs1.swf)

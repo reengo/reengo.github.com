@@ -7,7 +7,7 @@ slug: html5-game-development
 title: HTML5 Game Development
 wordpress_id: 1598
 categories:
-- code-review-on-life
+- Code Review on Life
 - Game Development
 - Tutorials
 tags:

@@ -8,7 +8,7 @@ slug: day-3-moving-boondocks
 title: 'Day 3: Moving Boondocks'
 wordpress_id: 79
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

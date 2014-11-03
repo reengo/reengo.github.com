@@ -7,7 +7,7 @@ slug: people-management-and-professionalism
 title: People Management and Professionalism
 wordpress_id: 22
 categories:
-- code-review-on-life
+- Code Review on Life
 - Tutorials
 - Work
 ---

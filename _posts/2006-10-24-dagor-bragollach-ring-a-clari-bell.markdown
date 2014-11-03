@@ -7,7 +7,7 @@ slug: dagor-bragollach-ring-a-clari-bell
 title: Dagor Bragollach... Ring a Clari-Bell?
 wordpress_id: 182
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Just this afternoon, the I"s staff recieved this box of Red Ribbon special mamon and pancit palabok from a mysterious guy who happens to be an admirer of one of our staff members. so mysterious that we are still not sure who the guy admires! or is he a she!? ehehehe. pakkit! a delivery guy from Red Ribbon appears at our front desk and leaves this box of goodies and a typewritten letter. The friggin letter says:

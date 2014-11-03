@@ -7,7 +7,7 @@ slug: quarter-pounder
 title: Quarter Pounder
 wordpress_id: 17
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Top 10 First Quarter Highlights in 2008.... hoyeahbah! outdated blogs.. ehehe.

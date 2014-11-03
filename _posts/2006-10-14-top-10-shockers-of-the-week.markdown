@@ -7,7 +7,7 @@ slug: top-10-shockers-of-the-week
 title: Top 10 shockers of the week
 wordpress_id: 188
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 *Update: renamed such harsh wordings. sorry for those who've just read and got pissed about this post. bwehehe. I still think you're nuts though, ehehe. "

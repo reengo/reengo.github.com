@@ -7,7 +7,7 @@ slug: when-mark-and-jas-got-bonded-for-life
 title: When Mark and Jas Got Bonded for Life...
 wordpress_id: 435
 categories:
-- code-review-on-life
+- Code Review on Life
 tags:
 - jas
 - jr

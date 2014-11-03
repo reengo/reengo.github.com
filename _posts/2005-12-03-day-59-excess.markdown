@@ -8,7 +8,7 @@ slug: day-59-excess
 title: 'Day 59: Excess'
 wordpress_id: 111
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

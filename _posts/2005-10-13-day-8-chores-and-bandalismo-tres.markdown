@@ -8,7 +8,7 @@ slug: day-8-chores-and-bandalismo-tres
 title: 'Day 8: Chores and Bandalismo Tres'
 wordpress_id: 75
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

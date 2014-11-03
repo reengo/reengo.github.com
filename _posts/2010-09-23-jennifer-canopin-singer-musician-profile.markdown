@@ -8,8 +8,8 @@ title: Jennifer Canopin, Singer - Musician Profile
 wordpress_id: 619
 categories:
 - Articles
-- code-review-on-life
-- All-Pepper
+- Code Review on Life
+- All Pepper
 - Profiles
 - Slapstrum
 tags:
@@ -18,7 +18,7 @@ tags:
 - jennifer
 - jennifer canopin
 - musician
-- All-Pepper
+- All Pepper
 - pinoy rock
 - reggae
 - singer

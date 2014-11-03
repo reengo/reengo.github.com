@@ -7,7 +7,7 @@ slug: life-is-strange
 title: Life is Strange
 wordpress_id: 1681
 categories:
-- code-review-on-life
+- Code Review on Life
 tags:
 - gaming
 - rpg

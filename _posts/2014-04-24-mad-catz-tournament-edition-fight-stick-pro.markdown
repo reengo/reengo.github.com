@@ -7,7 +7,7 @@ slug: mad-catz-tournament-edition-fight-stick-pro
 title: Mad Catz Tournament Edition Fight Stick Pro
 wordpress_id: 1626
 categories:
-- code-review-on-life
+- Code Review on Life
 - Games
 post_format:
 - Gallery

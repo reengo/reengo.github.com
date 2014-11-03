@@ -7,7 +7,7 @@ slug: ber-months-and-hair-rants
 title: '"BER" Months and Hair Rants! '
 wordpress_id: 49
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 [caption id="attachment_50" align="alignright" width="225" caption="Hair Ball"]![Hair Ball](http://www.reengo.com/wp-content/uploads/2009/08/hair-ball-225x300.jpg)[/caption]

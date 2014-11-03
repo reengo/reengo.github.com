@@ -8,7 +8,7 @@ slug: day-27-all-souls-day-plus-mini-reunion
 title: 'Day 27: All Soul''s Day Plus Mini Reunion'
 wordpress_id: 88
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

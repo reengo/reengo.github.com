@@ -8,7 +8,7 @@ slug: day-58-kwatro-blog-of-neechan
 title: 'Day 58: Kwatro Blog of Neechan'
 wordpress_id: 112
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

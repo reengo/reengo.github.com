@@ -8,7 +8,7 @@ slug: day-10-followup-hanging-out-at-the-ungaz
 title: 'Day 10 followup: Hanging out at the Ungaz'''
 wordpress_id: 72
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

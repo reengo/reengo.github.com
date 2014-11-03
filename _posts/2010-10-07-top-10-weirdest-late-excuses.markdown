@@ -23,7 +23,7 @@ slug: top-10-weirdest-late-excuses
 title: Top 10 Weirdest Late Excuses
 wordpress_id: 637
 categories:
-- code-review-on-life
+- Code Review on Life
 - Tutorials
 - Work
 tags:

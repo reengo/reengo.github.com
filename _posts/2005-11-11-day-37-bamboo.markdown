@@ -8,7 +8,7 @@ slug: day-37-bamboo
 title: 'Day 37: Bamboo'
 wordpress_id: 91
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

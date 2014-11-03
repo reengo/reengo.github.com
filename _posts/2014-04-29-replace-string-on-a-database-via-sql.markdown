@@ -7,9 +7,9 @@ slug: replace-string-on-a-database-via-sql
 title: Replace String on a Database via SQL
 wordpress_id: 1661
 categories:
-- Code-Review-on-Life
+- Code Review on Life
 - Tutorials
-- web-development
+- Web Development
 tags:
 - mysql
 - sql

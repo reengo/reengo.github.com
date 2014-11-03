@@ -7,7 +7,7 @@ slug: freelancing-saved-my-squishy-bottom
 title: Freelancing Saved my Squishy Bottom
 wordpress_id: 515
 categories:
-- code-review-on-life
+- Code Review on Life
 - Tutorials
 - Work
 tags:

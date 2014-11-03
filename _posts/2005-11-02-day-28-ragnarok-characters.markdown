@@ -8,7 +8,7 @@ slug: day-28-ragnarok-characters
 title: 'Day 28: Ragnarok Characters'
 wordpress_id: 89
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -8,7 +8,7 @@ slug: day-35-who-you-wanna-call
 title: 'Day 35: who you wanna call?'
 wordpress_id: 109
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -8,7 +8,7 @@ slug: day-54-forfeit-the-game
 title: 'Day 54: Forfeit the Game?'
 wordpress_id: 108
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -7,7 +7,7 @@ slug: mom-and-the-1000-ft-tree-of-wisdom
 title: Mom and the 1000+ ft. Tree of Wisdom
 wordpress_id: 902
 categories:
-- code-review-on-life
+- Code Review on Life
 - Games
 tags:
 - 1000ft

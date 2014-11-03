@@ -7,7 +7,7 @@ slug: how-to-let-down-a-good-friend-and-be-ashamed-for-the-rest-of-your-life
 title: Ronnel and Diane Ties the Knot
 wordpress_id: 528
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 [![](http://www.reengo.com/wp-content/uploads/2010/09/46949_158872840792969_7875290_n.jpg)](http://www.reengo.com/how-to-let-down-a-good-friend-and-be-ashamed-for-the-rest-of-your-life/46949_158872840792969_7875290_n)

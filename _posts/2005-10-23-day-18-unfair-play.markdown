@@ -8,7 +8,7 @@ slug: day-18-unfair-play
 title: 'Day 18: Unfair Play?'
 wordpress_id: 64
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

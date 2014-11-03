@@ -7,7 +7,7 @@ slug: dog-less-dog-lover
 title: Dog-less Dog-lover
 wordpress_id: 1124
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 So I've watched this video from Youtube about 'talking' dogs... Adorable, aren't they? Each time I see something like these though, I feel more of a heartbreak.

@@ -8,7 +8,7 @@ slug: day-50-less-than-2-weeks-to-go
 title: 'Day 50: Less Than 2 Weeks to Go!'
 wordpress_id: 100
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

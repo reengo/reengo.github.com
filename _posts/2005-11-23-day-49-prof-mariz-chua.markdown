@@ -8,7 +8,7 @@ slug: day-49-prof-mariz-chua
 title: 'Day 49: Prof Mariz Chua'
 wordpress_id: 101
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

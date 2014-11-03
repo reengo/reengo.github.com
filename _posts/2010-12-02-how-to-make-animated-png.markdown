@@ -7,7 +7,7 @@ slug: how-to-make-animated-png
 title: How to Make Animated PNG
 wordpress_id: 787
 categories:
-- Front-End-Web
+- Front End Web
 - Tutorials
 tags:
 - Animated PNG

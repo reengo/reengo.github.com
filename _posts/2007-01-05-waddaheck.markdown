@@ -7,7 +7,7 @@ slug: waddaheck
 title: Waddaheck!?
 wordpress_id: 170
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 while working on my first graveyard shift of the year, I came across a friend on ym using my meebo and had a chat at 12 midnight... I didn't expect that I could find out something really disturbing... syaks!

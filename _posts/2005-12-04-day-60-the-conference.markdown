@@ -8,7 +8,7 @@ slug: day-60-the-conference
 title: 'Day 60: The Conference'
 wordpress_id: 114
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

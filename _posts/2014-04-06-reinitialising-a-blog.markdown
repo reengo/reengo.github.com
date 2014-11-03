@@ -8,7 +8,7 @@ title: Reinitialising a Blog
 wordpress_id: 1482
 categories:
 - Blogging
-- code-review-on-life
+- Code Review on Life
 - Tutorials
 tags:
 - blog

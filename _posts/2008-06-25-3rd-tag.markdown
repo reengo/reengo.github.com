@@ -7,7 +7,7 @@ slug: 3rd-tag
 title: 3rd TAG
 wordpress_id: 6
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 I got tagged again... and I'm doing it for the third time... why not? It's Karen who tagged me! (It would get harder though, cause I've already wrote 12...!) bwehehe.

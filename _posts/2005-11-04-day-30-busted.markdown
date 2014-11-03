@@ -8,7 +8,7 @@ slug: day-30-busted
 title: 'Day 30: Busted!'
 wordpress_id: 104
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -9,7 +9,7 @@ title: 'The Shadow of Macenova - Chapter 2: Angelica'
 wordpress_id: 611
 categories:
 - Articles
-- The-Shadow-of-Macenova
+- The Shadow of Macenova
 tags:
 - angelica
 - laszio

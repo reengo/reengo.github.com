@@ -9,7 +9,7 @@ title: 'The Shadow of Macenova - Chapter I: Shan’s Mission'
 wordpress_id: 608
 categories:
 - Articles
-- The-Shadow-of-Macenova
+- The Shadow of Macenova
 tags:
 - adventure
 - creative writing

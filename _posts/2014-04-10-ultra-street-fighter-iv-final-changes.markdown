@@ -7,7 +7,7 @@ slug: ultra-street-fighter-iv-final-changes
 title: Ultra Street Fighter IV Final Changes
 wordpress_id: 1522
 categories:
-- code-review-on-life
+- Code Review on Life
 - Games
 tags:
 - fighting game

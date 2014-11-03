@@ -7,7 +7,7 @@ slug: flash-gets-flushed
 title: 'Flash gets Flushed '
 wordpress_id: 876
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 [caption id="attachment_1467" align="aligncenter" width="581"][![image credits to http://www.foxtrot.com/](http://www.reengo.com/wp-content/uploads/2010/12/Picture-41.png)](http://www.reengo.com/wp-content/uploads/2010/12/Picture-41.png) image credits to http://www.foxtrot.com/[/caption]

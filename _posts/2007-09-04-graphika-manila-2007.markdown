@@ -7,7 +7,7 @@ slug: graphika-manila-2007
 title: Graphika Manila 2007
 wordpress_id: 156
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 The convention sucks... period.

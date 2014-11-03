@@ -8,7 +8,7 @@ slug: day-43-44-college-life-day-2-and-3-plus-boys-night-out
 title: 'Day 43 & 44: College Life Day 2 and 3 Plus Boys Night Out'
 wordpress_id: 93
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

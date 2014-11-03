@@ -7,7 +7,7 @@ slug: no-conflict-jquery
 title: No Conflict Jquery
 wordpress_id: 1520
 categories:
-- Front-End-Web
+- Front End Web
 - Tutorials
 tags:
 - code conlicts

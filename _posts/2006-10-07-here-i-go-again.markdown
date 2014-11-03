@@ -7,7 +7,7 @@ slug: here-i-go-again
 title: Here I Go Again
 wordpress_id: 195
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Wow, its been a year since I last meddled with this page! ehehe. Suddenly, nostalgia came over me. I think I have been missing the blog thing a lot.

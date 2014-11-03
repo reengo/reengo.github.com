@@ -8,7 +8,7 @@ slug: day-22-drum-clinic
 title: 'Day 22: Drum Clinic'
 wordpress_id: 85
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

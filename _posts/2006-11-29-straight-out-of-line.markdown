@@ -7,7 +7,7 @@ slug: straight-out-of-line
 title: Straight Out of Line?
 wordpress_id: 176
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 I know Im not suppose to blog for at least a month to concentrate more on work but I just gotta let this one out...

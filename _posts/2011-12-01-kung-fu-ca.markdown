@@ -7,7 +7,7 @@ slug: kung-fu-ca
 title: Kung-Fu Cat!
 wordpress_id: 1162
 categories:
-- code-review-on-life
+- Code Review on Life
 post_format:
 - Video
 ---

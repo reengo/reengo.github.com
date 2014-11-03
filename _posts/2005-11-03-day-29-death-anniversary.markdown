@@ -8,7 +8,7 @@ slug: day-29-death-anniversary
 title: 'Day 29: Death Anniversary'
 wordpress_id: 103
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

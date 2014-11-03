@@ -8,7 +8,7 @@ slug: day-16-dreamy-me
 title: 'Day 16: Dreamy Me'
 wordpress_id: 66
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

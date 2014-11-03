@@ -7,7 +7,7 @@ slug: back-in-the-cloud
 title: Back in the Cloud
 wordpress_id: 466
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Finally! after almost a couple of months of no-DSL at home, Im back in the cloud WITH NO INTERRUPTIONS!

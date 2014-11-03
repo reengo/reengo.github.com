@@ -7,7 +7,7 @@ slug: to-greet-or-not-to-greet
 title: To Greet or Not to Greet
 wordpress_id: 166
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 I did a little experiment yesterday. I was trying figure out who among my friends are thoughtful enough to greet me on my birthday, without me giving them a hint. Not that would hold a grudge to those who wont, afterall, there are a lot of excuses to choose from.. But I just want to know. Trip lang! eheh.

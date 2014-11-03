@@ -10,7 +10,7 @@ wordpress_id: 133
 categories:
 - 2-Months-in-Oblivion
 - Articles
-- code-review-on-life
+- Code Review on Life
 ---
 
 "They were asking if... um..."  

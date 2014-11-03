@@ -10,7 +10,7 @@ wordpress_id: 130
 categories:
 - 2-Months-in-Oblivion
 - Articles
-- code-review-on-life
+- Code Review on Life
 ---
 
 Once there was this love triangle. A complicated three sided love affair that was getting worse. Ritsuki was a hopeless romantic in constant search for the right girl to become his partner. Michiko was a loner seeking attention from whom she had known to be the love of her life. And Masaru was Michiko’s boyfriend for 5 years who had always been looking for something Michiko wasn’t able to give. All three had been tediously looking for contentment, until Ritsuki came into Michiko’s life.  

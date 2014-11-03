@@ -8,7 +8,7 @@ slug: day-52-gymnastics-panis
 title: 'Day 52: Gymnastics... Panis!'
 wordpress_id: 98
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

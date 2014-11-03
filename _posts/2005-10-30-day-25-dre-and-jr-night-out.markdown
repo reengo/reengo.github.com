@@ -8,7 +8,7 @@ slug: day-25-dre-and-jr-night-out
 title: 'Day 25: Dre and Jr Night Out'
 wordpress_id: 87
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

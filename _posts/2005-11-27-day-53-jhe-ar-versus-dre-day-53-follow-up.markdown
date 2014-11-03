@@ -8,7 +8,7 @@ slug: day-53-jhe-ar-versus-dre-day-53-follow-up
 title: 'Day 53: Jhe-ar versus Dre (day 53 follow-up)'
 wordpress_id: 97
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

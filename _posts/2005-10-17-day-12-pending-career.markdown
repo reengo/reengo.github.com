@@ -8,7 +8,7 @@ slug: day-12-pending-career
 title: 'Day 12: Pending Career'
 wordpress_id: 69
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -8,7 +8,7 @@ slug: day-51-dropping-rejection
 title: 'Day 51: Dropping Rejection'
 wordpress_id: 99
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

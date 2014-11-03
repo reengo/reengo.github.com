@@ -7,7 +7,7 @@ slug: abandoned
 title: Abandoned...
 wordpress_id: 468
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Its August... more than a couple of months passed, and still... light has not been shed a bit...

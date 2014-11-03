@@ -7,7 +7,7 @@ slug: multiply-bug
 title: Multiply bug?
 wordpress_id: 186
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Somehow... I figured... I can't seem to get this page displayed at my hompage!? the hide/show option from the old multiply user cpanel is gone! crap!

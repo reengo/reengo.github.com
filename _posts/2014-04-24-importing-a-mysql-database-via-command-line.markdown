@@ -7,7 +7,7 @@ slug: importing-a-mysql-database-via-command-line
 title: Importing a MySQL Database Via Command Line
 wordpress_id: 1603
 categories:
-- code-review-on-life
+- Code Review on Life
 - Tutorials
 - Web Development
 tags:

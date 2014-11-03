@@ -7,7 +7,7 @@ slug: 1-6-liters-of-goo-my-sisters-ovarian-cyst
 title: 1.6 Liters of Goo - My Sisters Ovarian Cyst
 wordpress_id: 775
 categories:
-- code-review-on-life
+- Code Review on Life
 tags:
 - coke
 - maxicare

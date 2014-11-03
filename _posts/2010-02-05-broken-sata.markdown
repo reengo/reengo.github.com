@@ -10,7 +10,7 @@ slug: broken-sata
 title: Broken SATA
 wordpress_id: 446
 categories:
-- code-review-on-life
+- Code Review on Life
 tags:
 - clio
 - hdd

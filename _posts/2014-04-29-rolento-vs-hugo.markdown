@@ -7,7 +7,7 @@ slug: rolento-vs-hugo
 title: Rolento VS Hugo
 wordpress_id: 1663
 categories:
-- Code-Review-on-Life
+- Code Review on Life
 - Games
 tags:
 - hugo

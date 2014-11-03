@@ -8,7 +8,7 @@ slug: day-36-enrollment
 title: 'Day 36: Enrollment'
 wordpress_id: 90
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

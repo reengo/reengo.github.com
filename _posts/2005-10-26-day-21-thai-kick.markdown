@@ -8,7 +8,7 @@ slug: day-21-thai-kick
 title: 'Day 21: Thai Kick!!!'
 wordpress_id: 84
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

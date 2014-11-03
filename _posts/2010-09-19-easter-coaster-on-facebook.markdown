@@ -7,7 +7,7 @@ slug: easter-coaster-on-facebook
 title: Easter Coaster Joined Facebook
 wordpress_id: 580
 categories:
-- code-review-on-life
+- Code Review on Life
 - Slapstrum
 tags:
 - easter coaster

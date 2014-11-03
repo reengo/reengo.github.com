@@ -10,7 +10,7 @@ wordpress_id: 134
 categories:
 - 2-Months-in-Oblivion
 - Articles
-- code-review-on-life
+- Code Review on Life
 ---
 
 Chapter 2: Chasing Rainbows  

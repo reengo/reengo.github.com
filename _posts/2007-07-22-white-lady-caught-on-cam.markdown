@@ -7,7 +7,7 @@ slug: white-lady-caught-on-cam
 title: White Lady... Caught on cam?
 wordpress_id: 158
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 

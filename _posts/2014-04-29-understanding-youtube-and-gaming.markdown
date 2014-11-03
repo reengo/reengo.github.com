@@ -7,7 +7,7 @@ slug: understanding-youtube-and-gaming
 title: Understanding Youtube and Gaming
 wordpress_id: 1656
 categories:
-- code-review-on-life
+- Code Review on Life
 - Games
 tags:
 - gaming

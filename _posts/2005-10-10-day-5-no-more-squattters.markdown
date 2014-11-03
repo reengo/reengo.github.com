@@ -8,7 +8,7 @@ slug: day-5-no-more-squattters
 title: 'Day 5: No More Squattters!'
 wordpress_id: 81
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

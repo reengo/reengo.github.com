@@ -7,7 +7,7 @@ slug: 6th-year-at-deviantart
 title: 6th Year at DeviantART
 wordpress_id: 419
 categories:
-- code-review-on-life
+- Code Review on Life
 tags:
 - comics
 - deviant art

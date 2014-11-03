@@ -7,7 +7,7 @@ slug: a-different-perspective
 title: A Different Perspective
 wordpress_id: 531
 categories:
-- code-review-on-life
+- Code Review on Life
 tags:
 - freelance
 - life

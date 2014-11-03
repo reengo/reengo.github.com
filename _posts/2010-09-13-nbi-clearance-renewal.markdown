@@ -7,7 +7,7 @@ slug: nbi-clearance-renewal
 title: NBI Clearance Renewal
 wordpress_id: 589
 categories:
-- code-review-on-life
+- Code Review on Life
 - Tutorials
 - Work
 tags:

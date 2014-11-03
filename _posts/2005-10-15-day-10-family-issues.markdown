@@ -8,7 +8,7 @@ slug: day-10-family-issues
 title: 'Day 10: Family Issues'
 wordpress_id: 70
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

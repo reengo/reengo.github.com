@@ -7,7 +7,7 @@ slug: me-myself-and-2007
 title: Me, Myself and 2007
 wordpress_id: 29
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 Well, it was a really blessed 2007 for me, I had my share of ups and downs, but in the end, I got everything that I really wanted and more. God helped me through a lot this year. Hopefully the coming year would be more prosperous...

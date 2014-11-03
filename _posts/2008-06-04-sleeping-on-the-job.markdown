@@ -7,7 +7,7 @@ slug: sleeping-on-the-job
 title: Sleeping on the Job
 wordpress_id: 12
 categories:
-- code-review-on-life
+- Code Review on Life
 ---
 
 My sister had slept during her board exams for nursing... she answered randomly 200 questions with the 30 minutes that was left as she wakes up... at first I thought of it as a joke. but I was wrong.

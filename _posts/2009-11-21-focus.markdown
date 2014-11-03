@@ -7,12 +7,12 @@ slug: focus
 title: Focus
 wordpress_id: 363
 categories:
-- code-review-on-life
-- All-Pepper
+- Code Review on Life
+- All Pepper
 tags:
 - girlfriend
 - kittie
-- All-Pepper
+- All Pepper
 - pressure
 - stress
 - work

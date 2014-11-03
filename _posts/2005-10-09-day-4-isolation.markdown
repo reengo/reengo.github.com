@@ -8,7 +8,7 @@ slug: day-4-isolation
 title: 'Day 4: Isolation'
 wordpress_id: 80
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

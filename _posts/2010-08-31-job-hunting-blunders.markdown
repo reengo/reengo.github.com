@@ -7,7 +7,7 @@ slug: job-hunting-blunders
 title: Job Hunting Blunders
 wordpress_id: 533
 categories:
-- code-review-on-life
+- Code Review on Life
 - Tutorials
 - Work
 tags:

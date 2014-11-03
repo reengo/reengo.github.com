@@ -8,7 +8,7 @@ slug: day-47-deep-reminisce-mode
 title: 'Day 47: Deep Reminisce Mode'
 wordpress_id: 96
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 

@@ -8,7 +8,7 @@ slug: day-13-wierd-chico-email
 title: 'Day 13: Wierd Chico Email'
 wordpress_id: 71
 categories:
-- code-review-on-life
+- Code Review on Life
 - RIDE
 ---
 
