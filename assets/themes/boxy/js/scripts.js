@@ -24,7 +24,7 @@ $(document).ready(function(){
 	if($('#postListing').length == 0 ) $('.active-subnav:first-of-type').attr('open','open')
 	$('.posts li').each(function(i){
 		var block = i % 10;
-		var color = ['rgba(200,200,200,1)','rgba(195,195,195,1)','rgba(190,190,190,1)','rgba(185,185,185,1)','rgba(180,180,180,1)','rgba(175,175,175,1)','rgba(170,170,170,1)','rgba(165,165,165,1)','rgba(160,160,160,1)','rgba(155,155,155,1)']
+		var color = ['rgba(200,200,200,1)','rgba(195,195,195,1)','rgba(190,190,190,1)','rgba(205,205,205,1)','rgba(210,210,210,1)','rgba(215,215,215,1)','rgba(220,220,220,1)','rgba(225,225,225,1)','rgba(230,230,230,1)','rgba(235,235,235,1)']
 		switch(block){
 			case 2:
 			case 4:
