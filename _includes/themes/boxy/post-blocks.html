@@ -1,11 +1,11 @@
 <ul id="postListing" class="posts">
   {% for post in site.posts %}
     <li class="box">
+    <!-- <li class="box" style="background-image:url({{ post.featured_image }});background-size:cover"> -->
 		<h3 class="entrytitle"><a href="{{ post.url }}"><strong>{{ post.title }} </strong></a> </h3>
-		<p>[ <small>{{ post.date }}</small> ] <small class="lead">- {{ post.categories }}</small></p>
-
-		<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+		<img class="img-responsive" src="{{ post.featured_image }}">
+		<p>{{ post.content | strip_html | truncatewords: 50 }} {{post.post_format}}</p>
     </li>
   {% endfor %}
-  <li><button class="next btn btn-primary btn-block">Load More Posts...</button></li>
+  <li><button class="next btn btn-primary btn-block btn-lg">Load More Posts...</button></li>
 </ul>

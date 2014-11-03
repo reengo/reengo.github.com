@@ -11,6 +11,7 @@ categories:
 - Code Review on Life
 post_format:
 - Gallery
+featured_image: 'http://www.reengo.com/wp-content/uploads/2014/07/3455550-bftjexk.jpg'
 ---
 
 [![rwby_by_montyoum-d5kjod7](http://www.reengo.com/wp-content/uploads/2014/08/rwby_by_montyoum-d5kjod7-1024x576.jpg)](http://www.reengo.com/wp-content/uploads/2014/08/rwby_by_montyoum-d5kjod7.jpg)

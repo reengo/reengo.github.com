@@ -32,12 +32,29 @@
 </header>
 
 <div class="home main">
-  <div class="container-fluid">
+  <div class="container">
     <div class="site">
       <div class="content row">
+        <article class="col-md-9">
           {{ content }}
+        </article>
+        <aside class="col-md-3 widget-area">
+          {% include themes/boxy/sidebar.html %}
+        </aside>
       </div>
-      
+      <footer class="main">
+        <div class="footer-block">
+            <div class="widget-area" role="complementary">
+            </div>
+        </div>
+          
+          <section class="sig row">
+              <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+              with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+              and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+            </p>
+          </section>
+      </footer>
     </div>
 
     {% include JB/analytics %}
