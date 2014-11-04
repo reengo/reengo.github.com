@@ -18,7 +18,7 @@
   <div class="container">
     <h1 class="col-md-3"><a href="{{HOME_PATH}}"><img src="{{ ASSET_PATH }}/images/reengo-logo.png" alt="" title=""/></a></h1>
 
-    <nav class="navbar col-md-9">
+    <nav class="col-md-9">
       <ul id="access" role="navigation" class="header-menu nav nav-justified">  
          <li><a class="extra" href="{{ BASE_PATH }}{{ site.JB.archive_path }}"><span class="nav-title">Blog</span><span class="nav-sub-title">code review on life</span></a></li>
         <!-- <li><a class="extra" href="{{ BASE_PATH }}{{ site.JB.pages_path }}"><span class="nav-title">Pages</span><span class="nav-sub-title">niceties</span></a></li> -->
@@ -37,12 +37,13 @@
       <div class="content row">
           {{ content }}
       </div>
-      
     </div>
-
-    {% include JB/analytics %}
   </div>
 </div>
+
+{% include themes/boxy/footer.html %}
+
+{% include JB/analytics %}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>

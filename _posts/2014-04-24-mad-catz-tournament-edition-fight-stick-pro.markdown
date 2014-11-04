@@ -18,6 +18,7 @@ tags:
 - street fighter x tekken
 - tekken
 - ultra street fighter iv
+featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.45.07-e1398372950969-1024x613.jpg'
 ---
 
 So I recently bought a Limited Edition [Mad Catz Street Fighter X Tekken Tournament Edition Fight Stick Pro](http://www.madcatz.com/SFXTekken/fightstickpro.html) (*Pants* at the long title :D). Its with great satisfaction that I get to play smoothly with very responsive buttons. FADCs are executed with ease and you can feel that mild recoil upon button press that feels better than cheaper fight sticks.

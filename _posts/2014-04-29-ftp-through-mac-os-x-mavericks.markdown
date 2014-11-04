@@ -12,6 +12,7 @@ categories:
 - Code Review on Life
 - Tutorials
 - Web Development
+featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/Mavericks.jpg'
 ---
 
 On a unix based web server, you need to run and enable FTP to update the wordpress stack, themes or plugins. This is the reason why you get permission errors when you do so on Mac OSX Mavericks. you would need to run the following command:

@@ -4,6 +4,7 @@ title: "Markdown Boy! Down!"
 description: "Having a little fun with JekyllBootstrap"
 category: ['blogging']
 tags: ['jekyll', 'jekyll-bootstrap', 'markdown','blogging']
+featured_image: 'http://xn--80aqafcrtq.cc/img/1/7/8/178620.jpg'
 ---
 
 {% include JB/setup %}

@@ -14,6 +14,7 @@ categories:
 tags:
 - bootstrap
 - responsive web
+featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/Content_is_like_water.png'
 ---
 
 [![](http://www.reengo.com/wp-content/uploads/2014/04/Content_is_like_water.png)](http://www.reengo.com/wp-content/uploads/2014/04/Content_is_like_water.png)

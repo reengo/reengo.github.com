@@ -2,9 +2,15 @@
   {% for post in site.posts %}
     <li class="box">
     <!-- <li class="box" style="background-image:url({{ post.featured_image }});background-size:cover"> -->
-		<h3 class="entrytitle"><a href="{{ post.url }}"><strong>{{ post.title }} </strong></a> </h3>
-		<img class="img-responsive" src="{{ post.featured_image }}">
-		<p>{{ post.content | strip_html | truncatewords: 50 }} {{post.post_format}}</p>
+		{% if post.featured_image %}
+			<img class="img-responsive" src="{{ post.featured_image }}">
+		{% endif %}
+
+		<div class="box-body">
+			<h3 class="entrytitle"><a href="{{ post.url }}"><strong>{{ post.title }} </strong></a> </h3>
+		
+			<p>{{ post.content | strip_html | truncatewords: 50 }} {{post.post_format}}</p>
+		</div>
     </li>
   {% endfor %}
   <li><button class="next btn btn-primary btn-block btn-lg">Load More Posts...</button></li>

@@ -1,0 +1,71 @@
+/* Sidebar Styles  */
+aside.widget-area{
+	ul {
+		list-style: none;
+		padding:0;
+
+		li{
+			margin:10px 0;
+
+			&.contact{
+				text-align: center;
+			}
+
+			&.widget{
+				margin:0;
+				background:#573615;
+				list-style:none;
+				border-bottom:none;
+				display:block;
+				font:bold 12px Arial, Helvetica, sans-serif;
+
+				&.active-subnav{
+					width:100%;
+					background:#C6065C;
+					border-bottom:2px solid #C6065C;
+					border-top:none;
+					margin-top:5px;
+
+					a{ color:#fff; }
+				}
+
+				ul{
+					padding:5px 15px;
+					color:#fff;
+					display:block;
+					font:bold 12px Arial, Helvetica, sans-serif;	
+					margin:0;
+					list-style:none;
+
+					li{
+						background:#54260d;
+						border:none;
+						border-bottom:none;
+						border-top:none;
+						text-indent:15px;
+
+						a{
+							color:#fff;
+							display:block;
+							padding:3px 5px;
+							font:normal 12px Arial, Helvetica, sans-serif;
+
+							&:hover{ color:#C6065C; }
+						}
+					}
+				}
+			}
+		}
+	}
+
+	.fb-panel{
+		background:#222;
+	}
+
+	h2{
+		font:bold 15px Arial, Helvetica, sans-serif;
+		padding:5px 10px;
+		margin:0;
+		color:#333;
+	}
+}

@@ -6,5 +6,3 @@ tagline: Homepage
 {% include JB/setup %}
 
 {% include themes/boxy/post-blocks.html %}
-
-{% include themes/boxy/footer.html %}

@@ -28,21 +28,33 @@ $(document).ready(function(){
 		switch(block){
 			case 2:
 			case 4:
-				$(this).addClass('col-sm-3').height(400).css('background-color',color[Math.floor(Math.random() * 10)]);
+				$(this).addClass('col-sm-3')
+					.height(400)
+					.css('background-color',color[Math.floor(Math.random() * 10)]);
+				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','30%') );
 				break;
 			case 1:
 			case 5:
 			case 6:
 			case 7:
-				$(this).addClass('col-sm-4').height(400).css('background-color',color[Math.floor(Math.random() * 10)]);
+				$(this).addClass('col-sm-4')
+					.height(400)
+					.css('background-color', color[Math.floor(Math.random() * 10)]);
+				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','40%') );
 				break;
 			case 0:
-				$(this).addClass('col-sm-8').height(400).css('background-color',color[Math.floor(Math.random() * 10)]);
+				$(this).addClass('col-sm-8')
+					.height(400)
+					.css('background-color', color[Math.floor(Math.random() * 10)]);
+				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','60%') );
 				break;
 			case 3:
 			case 8:
 			case 9:
-				$(this).addClass('col-sm-6').height(400).css('background-color',color[Math.floor(Math.random() * 10)]);
+				$(this).addClass('col-sm-6')
+					.height(400)
+					.css('background-color', color[Math.floor(Math.random() * 10)]);
+				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','50%') );
 				break;
 		}
 	});

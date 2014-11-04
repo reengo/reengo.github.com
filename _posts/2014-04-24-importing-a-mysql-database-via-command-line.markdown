@@ -16,6 +16,7 @@ tags:
 - import
 - mysql
 - web development
+featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/mysqllogo1.png'
 ---
 
 Exporting and importing databases is usually an annoying task but it can't be avoided. There would be instances where you would need to replicate a site you are working on locally with the exact same data as it is live. the most commonly used method would be to use [Phpmyadmin](http://phpmyadmin.net) locally, create a db and import the db dump using the (you guessed it.) import command.
