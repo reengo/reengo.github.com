@@ -4,6 +4,7 @@ comments: true
 date: 2010-08-03 07:57:24+00:00
 layout: post
 slug: back-in-the-cloud
+published: false
 title: Back in the Cloud
 wordpress_id: 466
 categories:

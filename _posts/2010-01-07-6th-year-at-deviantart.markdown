@@ -6,6 +6,7 @@ layout: post
 slug: 6th-year-at-deviantart
 title: 6th Year at DeviantART
 wordpress_id: 419
+published: false
 categories:
 - Code Review on Life
 tags:

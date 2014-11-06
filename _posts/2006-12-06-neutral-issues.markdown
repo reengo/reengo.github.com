@@ -5,6 +5,7 @@ date: 2006-12-06 21:30:26+00:00
 layout: post
 slug: neutral-issues
 title: Neutral Issues
+published: false
 wordpress_id: 174
 categories:
 - Code Review on Life

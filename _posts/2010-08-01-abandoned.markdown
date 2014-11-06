@@ -5,6 +5,7 @@ date: 2010-08-01 08:13:07+00:00
 layout: post
 slug: abandoned
 title: Abandoned...
+published: false
 wordpress_id: 468
 categories:
 - Code Review on Life

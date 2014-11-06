@@ -6,6 +6,7 @@ layout: post
 slug: prismatic-orb-episode-2-panganib
 title: 'Prismatic Orb Episode 2: Panganib'
 wordpress_id: 1224
+published: false
 categories:
 - Comic
 - Prismatic Orb

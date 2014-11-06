@@ -16,6 +16,7 @@ tags:
 - event
 - funstuff
 - until august
+featured_image: 'http://www.reengo.com/wp-content/uploads/2010/11/charge-718x1024.jpg'
 ---
 
 [caption id="attachment_752" align="aligncenter" width="646" caption="Charge to Experience, November 13, 2010, Club Dredd Eastwood."][![](http://www.reengo.com/wp-content/uploads/2010/11/charge-718x1024.jpg)](http://www.reengo.com/charge-to-experience/charge)[/caption]

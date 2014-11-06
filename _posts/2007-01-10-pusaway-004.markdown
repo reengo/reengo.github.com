@@ -10,6 +10,7 @@ categories:
 - Comic
 tags:
 - pusaway
+featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/pusaway004.jpg'
 ---
 
 [![pusaway004](http://www.reengo.com/wp-content/uploads/2014/04/pusaway004.jpg)](http://www.reengo.com/wp-content/uploads/2014/04/pusaway004.jpg)

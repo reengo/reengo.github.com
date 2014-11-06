@@ -9,6 +9,7 @@ layout: post
 slug: broken-sata
 title: Broken SATA
 wordpress_id: 446
+published: false
 categories:
 - Code Review on Life
 tags:

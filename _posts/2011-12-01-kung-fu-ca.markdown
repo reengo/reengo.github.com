@@ -3,6 +3,7 @@ author: admin
 comments: true
 date: 2011-12-01 19:31:07+00:00
 layout: post
+published: false
 slug: kung-fu-ca
 title: Kung-Fu Cat!
 wordpress_id: 1162

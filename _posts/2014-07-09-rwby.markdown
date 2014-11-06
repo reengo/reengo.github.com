@@ -9,6 +9,7 @@ wordpress_id: 1679
 categories:
 - anime
 - Code Review on Life
+published: false
 post_format:
 - Gallery
 featured_image: 'http://www.reengo.com/wp-content/uploads/2014/07/3455550-bftjexk.jpg'

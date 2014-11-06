@@ -3,6 +3,7 @@ author: admin
 comments: true
 date: 2010-09-01 05:37:01+00:00
 layout: post
+published: false
 slug: a-different-perspective
 title: A Different Perspective
 wordpress_id: 531

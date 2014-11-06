@@ -3,6 +3,7 @@ author: admin
 comments: true
 date: 2011-07-28 04:25:08+00:00
 layout: post
+published: false
 slug: dog-less-dog-lover
 title: Dog-less Dog-lover
 wordpress_id: 1124

@@ -4,6 +4,7 @@ comments: true
 date: 2006-10-16 21:34:39+00:00
 layout: post
 slug: multiply-bug
+published: false
 title: Multiply bug?
 wordpress_id: 186
 categories:

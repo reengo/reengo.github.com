@@ -9,9 +9,8 @@ description: "On a unix based web server, you need to run and enable FTP to upda
 tags: ['blogging','wordpress','ftp','mac','osx','mavericks']
 wordpress_id: 1659
 categories:
-- Code Review on Life
+- OS X
 - Tutorials
-- Web Development
 featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/Mavericks.jpg'
 ---
 

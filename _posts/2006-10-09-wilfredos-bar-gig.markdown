@@ -4,6 +4,7 @@ comments: true
 date: 2006-10-09 21:37:32+00:00
 layout: post
 slug: wilfredos-bar-gig
+published: false
 title: Wilfredo's Bar Gig
 wordpress_id: 193
 categories:

@@ -12,6 +12,7 @@ tags:
 - music
 - music streaming
 - spotify
+featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/spotify-logo-primary-horizontal-dark-background-rgb.jpg'
 ---
 
 ![](http://www.adweek.com/files/imagecache/node-detail/news_article/spotify-coke-hed-2012.jpg)

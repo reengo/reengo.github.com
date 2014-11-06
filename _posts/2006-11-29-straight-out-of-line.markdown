@@ -5,6 +5,7 @@ date: 2006-11-29 21:31:05+00:00
 layout: post
 slug: straight-out-of-line
 title: Straight Out of Line?
+published: false
 wordpress_id: 176
 categories:
 - Code Review on Life

@@ -6,6 +6,7 @@ layout: post
 slug: prismatic-orb-episode-1-ang-muling-pagkikita
 title: 'Prismatic Orb Episode 1: Ang Muling Pagkikita'
 wordpress_id: 1266
+published: false
 categories:
 - Comic
 - Prismatic Orb

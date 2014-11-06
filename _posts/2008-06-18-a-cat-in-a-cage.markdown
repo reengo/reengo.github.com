@@ -5,6 +5,7 @@ date: 2008-06-18 10:34:00+00:00
 layout: post
 published: false
 slug: a-cat-in-a-cage
+published: false
 title: A Cat in a Cage
 wordpress_id: 8
 categories:

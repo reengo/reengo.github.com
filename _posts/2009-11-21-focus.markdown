@@ -6,6 +6,7 @@ layout: post
 slug: focus
 title: Focus
 wordpress_id: 363
+published: false
 categories:
 - Code Review on Life
 - All Pepper

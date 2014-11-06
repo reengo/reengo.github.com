@@ -8,6 +8,7 @@ title: 'Flash gets Flushed '
 wordpress_id: 876
 categories:
 - Code Review on Life
+featured_image: 'http://www.reengo.com/wp-content/uploads/2010/12/Picture-41.png'
 ---
 
 [caption id="attachment_1467" align="aligncenter" width="581"][![image credits to http://www.foxtrot.com/](http://www.reengo.com/wp-content/uploads/2010/12/Picture-41.png)](http://www.reengo.com/wp-content/uploads/2010/12/Picture-41.png) image credits to http://www.foxtrot.com/[/caption]

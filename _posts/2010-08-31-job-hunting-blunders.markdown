@@ -3,6 +3,7 @@ author: admin
 comments: true
 date: 2010-08-31 19:37:57+00:00
 layout: post
+published: false
 slug: job-hunting-blunders
 title: Job Hunting Blunders
 wordpress_id: 533

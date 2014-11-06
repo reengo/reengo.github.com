@@ -10,6 +10,7 @@ categories:
 - Comic
 tags:
 - kuto
+featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/kuto003-2.jpg'
 ---
 
 [![kuto003 (2)](http://www.reengo.com/wp-content/uploads/2014/04/kuto003-2.jpg)](http://www.reengo.com/wp-content/uploads/2014/04/kuto003-2.jpg)

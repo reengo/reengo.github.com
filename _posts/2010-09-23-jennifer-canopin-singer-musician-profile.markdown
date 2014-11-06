@@ -3,6 +3,7 @@ author: pepper
 comments: true
 date: 2010-09-23 18:08:30+00:00
 layout: post
+published: false
 slug: jennifer-canopin-singer-musician-profile
 title: Jennifer Canopin, Singer - Musician Profile
 wordpress_id: 619

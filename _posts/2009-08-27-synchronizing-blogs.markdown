@@ -16,6 +16,7 @@ tags:
 - multiply
 - twitter
 - work
+featured_image: 'http://www.reengo.com/wp-content/uploads/2009/08/Blogger-logo.jpg'
 ---
 
 I've been synchronizing blogs all night, and after a sudden feel of pain on the neck. I figured, WHADDAHELL AM I DOING THIS FOR!?

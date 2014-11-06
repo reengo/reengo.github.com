@@ -3,6 +3,7 @@ author: admin
 comments: true
 date: 2010-08-12 17:55:24+00:00
 layout: post
+published: false
 slug: freelancing-saved-my-squishy-bottom
 title: Freelancing Saved my Squishy Bottom
 wordpress_id: 515

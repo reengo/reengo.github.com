@@ -6,6 +6,7 @@ layout: post
 slug: ber-months-and-hair-rants
 title: '"BER" Months and Hair Rants! '
 wordpress_id: 49
+published: false
 categories:
 - Code Review on Life
 ---

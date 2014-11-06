@@ -15,6 +15,7 @@ tags:
 - social sharing
 - twitter
 - wordpress embeds
+featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/wordpress-logo.jpg'
 ---
 
 This may be an old feature from Wordpress 3.4, but I like the way the web gets smarter. We simply enter a twitter post url and we get this wonderfully rendered twitter post UI.
