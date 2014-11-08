@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 title: A New Code Monkey Blog has Arrived!
 tagline: Homepage
 ---
