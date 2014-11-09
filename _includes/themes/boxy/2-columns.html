@@ -42,24 +42,12 @@
           {% include themes/boxy/sidebar.html %}
         </aside>
       </div>
-      <footer class="main">
-        <div class="footer-block">
-            <div class="widget-area" role="complementary">
-            </div>
-        </div>
-          
-          <section class="sig row">
-              <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-              with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-              and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
-            </p>
-          </section>
-      </footer>
-    </div>
-
-    {% include JB/analytics %}
   </div>
 </div>
+
+{% include themes/boxy/footer.html %}
+
+{% include JB/analytics %}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
