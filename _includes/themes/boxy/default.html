@@ -11,10 +11,11 @@
 
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/all.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="{{ ASSET_PATH }}/css/animate.css" type="text/css" media="screen, projection" />
 </head>
 <body>
 
-<header class="main">
+<header class="main animated fadeInDown">
   <div class="container">
     <h1 class="col-md-3"><a href="{{HOME_PATH}}"><img src="{{ ASSET_PATH }}/images/reengo-logo.png" alt="" title=""/></a></h1>
 
@@ -24,14 +25,16 @@
         <!-- <li><a class="extra" href="{{ BASE_PATH }}{{ site.JB.pages_path }}"><span class="nav-title">Pages</span><span class="nav-sub-title">niceties</span></a></li> -->
         <li><a class="extra" href="{{ BASE_PATH }}{{ site.JB.categories_path }}"><span class="nav-title">Tutorials</span><span class="nav-sub-title">learn stuff</span></a></li>
         <li><a class="extra" href="{{ BASE_PATH }}{{ site.JB.tags_path }}"><span class="nav-title">Tags</span><span class="nav-sub-title">tags</span></a></li>
-        <li><a class="extra" href="{{ BASE_PATH }}/about"><span class="nav-title">Playground</span><span class="nav-sub-title">Who's Responsible</span></a></li>
-        <li><a class="extra" href="{{ BASE_PATH }}/about"><span class="nav-title">About</span><span class="nav-sub-title">Who's Responsible</span></a></li>
+        <li><a class="extra" href="{{ BASE_PATH }}/pages/playground.html"><span class="nav-title">Playground</span><span class="nav-sub-title">Experiments</span></a></li>
+        <li><a class="extra" href="{{ BASE_PATH }}/pages/about-us.html"><span class="nav-title">About</span><span class="nav-sub-title">Who's Responsible</span></a></li>
       </ul><!-- #access -->
     </nav>
   </div>
 </header>
 
-<div class="home main">
+<div class="hero" style="background-image:url('http://www.reengo.com/rgb/wp-content/uploads/comic.jpg'); background-size:cover; background-position:0 -150px; height:400px; background-attachment:fixed;"></div>
+
+<div class="home main" style="display:none;">
   <div class="container-fluid">
     <div class="site">
       <div class="content row">

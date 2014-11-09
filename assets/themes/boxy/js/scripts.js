@@ -1,4 +1,29 @@
 $(document).ready(function(){
+	$('.main').show();
+
+	$(window).scroll(function(){
+		var menuOffset = $('header.main').offset();
+		var contentOffset = $('.site').offset();
+		if($(window).scrollTop() > contentOffset.top){
+			$('header.main').removeClass('fadeInDown fadeOutUp')
+				.addClass('fadeInDown navbar-fixed-top');
+		}
+
+		if($(window).scrollTop() < contentOffset.top && $(window).scrollTop() > menuOffset.top){
+			$('header.main').removeClass('fadeInDown fadeOutUp')
+				.addClass('fadeOutUp')
+				.one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function(){
+					$(this).removeClass('navbar-fixed-top');
+				});
+		}
+
+		if($(window).scrollTop() < menuOffset.top){
+			$('header.main').removeClass('fadeInDown fadeOutUp navbar-fixed-top')
+				.addClass('fadeInDown')
+		}
+
+
+	});
 
 	//lazyloading
 	var postsPerPage = 10;
