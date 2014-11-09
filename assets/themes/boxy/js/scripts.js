@@ -68,9 +68,9 @@ $(document).ready(function(){
 			// 	break;
 			default:
 				$(this).addClass('col-sm-3')
-					.height(400)
+					.height(300)
 					.css('background-color',color[Math.floor(Math.random() * 10)]);
-				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','50%') );
+				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','25%') );
 				break;
 		}
 	});
