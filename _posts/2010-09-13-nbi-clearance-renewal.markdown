@@ -3,7 +3,7 @@ author: admin
 comments: true
 date: 2010-09-13 11:46:38+00:00
 layout: post
-published: false
+published: true
 slug: nbi-clearance-renewal
 title: NBI Clearance Renewal
 wordpress_id: 589

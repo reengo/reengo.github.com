@@ -1,6 +1,7 @@
 ---
 author: admin
 comments: true
+publish: true
 date: 2011-07-01 14:25:48+00:00
 layout: post
 slug: linktracker
