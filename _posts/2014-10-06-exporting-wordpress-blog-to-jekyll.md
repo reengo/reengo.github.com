@@ -3,6 +3,7 @@ layout: post
 title: "Exporting Wordpress Blog to Jekyll"
 description: "Tutorial on how to export a self hosted Wordpress blog to Jekyll"
 category: ['blogging']
+published: false
 tags: ['jekyll', 'jekyll-bootstrap', 'markdown','blogging']
 ---
 

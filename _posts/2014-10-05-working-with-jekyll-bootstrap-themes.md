@@ -3,6 +3,7 @@ layout: post
 title: "Working with JekyllBootstrap Themes"
 description: "Creating your own themes on jekyll"
 category: ['blogging']
+published: false
 tags: ['jekyll', 'jekyll-bootstrap', 'markdown','blogging']
 ---
 
