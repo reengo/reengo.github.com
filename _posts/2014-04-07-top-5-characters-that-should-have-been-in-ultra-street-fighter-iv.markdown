@@ -22,7 +22,7 @@ tags:
 - skullomania
 - street fighter
 - ultra sf iv
-featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/ultrasflogothumb.jpg'
+featured_image: 'assets/images/ultrasflogothumb.jpg'
 ---
 
 So yeah, last month's announcement that [Decapre would be the Fifth New Challenger for Ultra Street Fighter IV](http://shoryuken.com/2014/03/16/capcom-reveals-decapre-as-ultra-street-fighter-ivs-fifth-roster-addition/) was a bit shocking. But it wasn't a big surprise that the new character would come from Bison's Dolls. Who else is female, has not been playable in any Street Fighter game EVER, and has been in the comics from UDON...?

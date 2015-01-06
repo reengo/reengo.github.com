@@ -12,7 +12,7 @@ categories:
 tags:
 - code conlicts
 - jquery
-featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/jquery_logo.png'
+featured_image: 'assets/images/jquery_logo.png'
 ---
 
 Working with Magento, you may encounter issues with Javascript libraries. Especially when dealing with an older version (CE 1.7), you may have conflicts with jQuery versions particularly the one you used for Bootstrap (most likely the latest). Unfortunately, Magento CE 1.7 uses prototype.js for most of its front end which also uses the ($) symbol used by jQuery, and prototype.js is only compatible to jQuery 1.5 and below. Therefore, its a no go for Bootstrap which uses jQuery 1.7 at the very least.

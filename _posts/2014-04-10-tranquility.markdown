@@ -18,7 +18,7 @@ tags:
 - drawing
 - prismatic orb
 - reen
-featured: 'http://www.reengo.com/wp-content/uploads/2014/04/tranquility-e1397172806287.jpg'
+featured: 'assets/images/tranquility-e1397172806287.jpg'
 ---
 
 I've just revisited my old [deviant art account](http://laszio.deviantart.com/)... made me miss drawing so much that I remember this tranquil feeling when I finish a work. I feel I've contributed something good to society no matter how small it is, I figured I could have inspired someone in my own unique way.

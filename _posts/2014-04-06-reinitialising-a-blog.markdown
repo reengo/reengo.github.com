@@ -13,7 +13,7 @@ categories:
 tags:
 - blog
 - reboot
-featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/origin_3008074711.jpg'
+featured_image: 'assets/images/origin_3008074711.jpg'
 ---
 
 Okay, so my blog has been around for years now and the last post I ever published was 3 years ago... So, what the heck have I been doing all these years!? :D

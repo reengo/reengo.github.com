@@ -8,7 +8,7 @@ title: Simple Slots Game
 wordpress_id: 800
 categories:
 - Applications
-featured_image: 'http://www.reengo.com/wp-content/uploads/2010/11/slots-design-study500x400.jpg'
+featured_image: 'assets/images/slots-design-study500x400.jpg'
 ---
 
 Here's a quick sample of a slots game monetized with in-game ads... I'm still currently playing with the idea but I think it could work...

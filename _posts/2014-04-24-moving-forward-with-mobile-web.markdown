@@ -14,10 +14,12 @@ categories:
 tags:
 - bootstrap
 - responsive web
-featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/Content_is_like_water.png'
+featured_image: 'assets/images/Content_is_like_water.png'
 ---
 
-[![](http://www.reengo.com/wp-content/uploads/2014/04/Content_is_like_water.png)](http://www.reengo.com/wp-content/uploads/2014/04/Content_is_like_water.png)
+[![](../assets/images/Content_is_like_water.png)](../assets/images/Content_is_like_water.png)
+
+<iframe id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" height="400" src="https://prezi.com/embed/4cwhvkihcwst/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWmlSa1k1MmNRK3VoaXFhTktOYzU5Ynl1eWtiVVRLK2V4Vm9jRzN5NlBuc1lpZTcrZ2dnSlNqN2dCQT0&amp;landing_sign=KeL9nsh2xDScbI40yigIpUUBFkn3KSCbtcRx3eBoJRk#"></iframe>
 
 So a few months back I was invited to speak to Bulacan State University (BSU) about Responsive Web Development. I was with my colleague Peter who in turn discussed about Javascript and everything cool about it. Our audience, graduating BSIT students of BSU.
 
