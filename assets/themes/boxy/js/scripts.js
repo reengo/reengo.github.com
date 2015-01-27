@@ -70,7 +70,7 @@ $(document).ready(function(){
 				$(this).addClass('col-sm-2')
 					.height(300)
 					.css('background-color',color[Math.floor(Math.random() * 10)]);
-				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','30%') );
+				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','45%') );
 				break;
 		}
 	});
