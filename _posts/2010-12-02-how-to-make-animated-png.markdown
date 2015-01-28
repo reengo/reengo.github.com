@@ -14,7 +14,6 @@ tags:
 - APNG Anime Maker
 - GIF
 - PNG
-featured_image: 'assets/images/z21-300x225.png'
 ---
 
 [caption id="attachment_910" align="alignleft" width="300"][![](http://www.reengo.com/wp-content/uploads/2010/12/z21-300x225.png)](http://www.reengo.com/how-to-make-animated-png/z2-2) Click image to view APNG correctly[/caption]
