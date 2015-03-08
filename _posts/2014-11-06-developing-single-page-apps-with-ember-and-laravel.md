@@ -8,3 +8,12 @@ tags: ['front end','front end web', 'web development','markup','less','emberjs',
 ---
 
 {% include JB/setup %}
+
+[DRAFT]
+topics: 
+- Laravel 4
+- NPM
+- LESS
+- Grunt
+- Ember
+- Ember Data

@@ -8,3 +8,12 @@ tags: ['front end','front end web', 'web development','markup','less', 'grunt','
 ---
 
 {% include JB/setup %}
+[DRAFT]
+
+- Discuss Bootstrap
+- Setting Up environment
+- Package Management with NPM
+- Task automation with Grunt
+- Preprocessed CSS with LESS
+- Live Reload
+- Closing

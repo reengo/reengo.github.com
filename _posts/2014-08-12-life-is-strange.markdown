@@ -12,6 +12,7 @@ tags:
 - gaming
 - rpg
 - square-enix
+- life is strange
 featured_image: 'assets/images/BuwvHeFIUAEPhUj.jpg'
 ---
 
