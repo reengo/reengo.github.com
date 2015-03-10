@@ -7,7 +7,7 @@ description: ""
 
 #About Reengo
 
-[![Reengo Banner](http://www.reengo.com/wp-content/uploads/2012/06/reengobanner.jpg)](http://www.reengo.com/wp-content/uploads/2012/06/reengobanner.jpg)
+[![Reengo Banner](../assets/images/reengo.png)](../assets/images/reengo.png)
 
 You have just landed on Reengo. Its an anything goes, Front End Ninja Gamer Blog sharing the adventures of an app developer and gaming enthusiast.
 
