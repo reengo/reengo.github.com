@@ -15,7 +15,7 @@ tags:
 - flappy bird
 - game developement
 - javascript
-featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-25-at-12.39.00-AM.png'
+featured_image: 'assets/images/Screen-Shot-2014-04-25-at-12.39.00-AM.png'
 ---
 
 

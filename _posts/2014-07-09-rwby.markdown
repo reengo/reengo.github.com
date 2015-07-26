@@ -12,10 +12,10 @@ categories:
 published: true
 post_format:
 - Gallery
-featured_image: 'http://www.reengo.com/wp-content/uploads/2014/07/3455550-bftjexk.jpg'
+featured_image: 'assets/images/3455550-bftjexk.jpg'
 ---
 
-[![rwby_by_montyoum-d5kjod7](http://www.reengo.com/wp-content/uploads/2014/08/rwby_by_montyoum-d5kjod7-1024x576.jpg)](http://www.reengo.com/wp-content/uploads/2014/08/rwby_by_montyoum-d5kjod7.jpg)
+[![rwby_by_montyoum-d5kjod7](../assets/images/rwby_by_montyoum-d5kjod7.jpg)](../assets/images/rwby_by_montyoum-d5kjod7.jpg)
 
 RWBY has been a much awaited animated series from the creator of a highly popularised experimental cross-up between characters (mostly women) of Dead or Alive and Final Fantasy aptly named, Dead Fantasy :D. Dead Fantasy was a series of 6 short episodes jam-packed with action sequences with the characters from both games (exactly what the fans have always been wanting to see). Unfortunately, it didn't went past episode 6. After a couple of years though, Monty and a new team from Rooster Teeth had launched, RWBY, an original series that somehow took the action-packed awesomeness of Dead Fantasy into a deeper story line complete with dialogues and voice acting. It features more loveable characters each with their own original story in a style to which Otakus and Gamers would really enjoy.
 

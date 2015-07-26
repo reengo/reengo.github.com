@@ -15,7 +15,7 @@ tags:
 - street fighter
 - usf4
 - ultra street fighter iv
-featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/Ultra_street_fighter_4_rolento_art.jpg'
+featured_image: 'assets/images/Ultra_street_fighter_4_rolento_art.jpg'
 ---
 
 Its Infiltration versus Capcom's Combofiend. A nice match showcasing Rolento against Hugo, something to look forward to when Ultra Street Fighter IV arrives.

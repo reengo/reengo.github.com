@@ -13,7 +13,7 @@ tags:
 - gaming
 - pewdiepie
 - youtube
-featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/maxresdefault.jpg'
+featured_image: 'assets/images/maxresdefault.jpg'
 ---
 
 Found such an informative video about how youtube works. This also answers the question, why is PewDiePie famous? :D Try subscribing to Game Theory, you'll surely learn a lot from this channel. :D

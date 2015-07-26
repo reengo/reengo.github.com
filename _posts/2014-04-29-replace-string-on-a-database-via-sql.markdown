@@ -14,7 +14,7 @@ tags:
 - mysql
 - sql
 - wordpress
-featured_image: 'http://www.reengo.com/wp-content/uploads/2014/04/mysqllogo1.png'
+featured_image: 'assets/images/mysqllogo.png'
 ---
 
 There will come a time when you will need to import a Wordpress database on your local and wonder why some links still point to the live site. Some data from posts may still contain links pointing to the live site which could make it impossible for you to test your work locally. This could not be avoided since an absolute URL is saved on the database regardless if the link is relative or not.

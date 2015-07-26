@@ -11,7 +11,7 @@ $(document).ready(function(){
 	});
 
 	//lazyloading
-	var postsPerPage = 8;
+	var postsPerPage = 100;
 	var postsCount = postsPerPage;
 	var totalPosts = $('.posts li').length;
 
@@ -67,10 +67,10 @@ $(document).ready(function(){
 			// 	$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','50%') );
 			// 	break;
 			default:
-				$(this).addClass('col-sm-3')
+				$(this).addClass('col-sm-2')
 					.height(300)
 					.css('background-color',color[Math.floor(Math.random() * 10)]);
-				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','25%') );
+				$(this).find('img').wrap( $('<div class="img-wrapper">').css('height','30%') );
 				break;
 		}
 	});
