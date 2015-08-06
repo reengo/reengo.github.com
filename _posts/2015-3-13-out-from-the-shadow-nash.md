@@ -19,7 +19,7 @@ featured_image: 'assets/images/nash.jpg'
 
 This Game is getting more exciting that it ever was... Charlie Nash is back!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1JT-IvFkUhA" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/1JT-IvFkUhA" frameborder="0" allowfullscreen></iframe>
 
 Whats even more interresting is how the story line progresses. As we all know, Guile is looking for Charlie who was presumed dead. Killed by sacrificing himself to kill bison after being brainwashed to do Shadaloo stuff for Bison. they both fell off a cliff... some drama... both of them died... but Bison recovered... and now Charlie's back! 
 

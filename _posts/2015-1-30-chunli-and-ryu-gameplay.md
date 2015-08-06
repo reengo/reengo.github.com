@@ -16,6 +16,6 @@ tags:
 featured_image: 'assets/images/ryu1.jpg'
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QMx2l8EtvdI" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/QMx2l8EtvdI" frameborder="0" allowfullscreen></iframe>
 
 The dynamics on Chun Li's movements are just plain awesome...
