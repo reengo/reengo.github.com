@@ -13,7 +13,7 @@ tags:
 - street fighter v
 - ryu
 - chunli
-featured_image: 'assets/images/ryu1.jpeg'
+featured_image: 'assets/images/ryu1.jpg'
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QMx2l8EtvdI" frameborder="0" allowfullscreen></iframe>
