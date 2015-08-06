@@ -17,12 +17,12 @@ tags:
 featured_image: 'assets/images/nash.jpg'
 ---
 
-This Game is getting more exciting that it ever was... Charlie Nash is back!
+This Game is getting more and more exciting that it ever was... Charlie Nash is back!
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/1JT-IvFkUhA" frameborder="0" allowfullscreen></iframe>
 
-Whats even more interresting is how the story line progresses. As we all know, Guile is looking for Charlie who was presumed dead. Killed by sacrificing himself to kill bison after being brainwashed to do Shadaloo stuff for Bison. they both fell off a cliff... some drama... both of them died... but Bison recovered... and now Charlie's back! 
+What's even more interesting is the mystery on how the story line progresses. As we all know, Guile is looking for Charlie who was presumed dead, killed by sacrificing himself to kill Bison after a long brainwashed drama he had to go through do Shadaloo stuff as a zombie killer... er... killer zombie? tsk, a killer that is much like a zombie! ...there. They both fell off a cliff... some drama... both of them died... some drama... but Bison recovered... some drama... and now Charlie's back! 
 
-It could be that someone revived him. probably whats left of SIN or something else. Judging from the stitches and Frankenstein-like look... he could have been an experiment as well... Probably not by Shadaloo though. Why would Bison even bother reviving him after all that has happened. :D
+It could be that someone revived him. probably whats left of SIN or some other organization? Judging from the stitches and Frankenstein-like look... he could have been an experiment as well... Probably not by Shadaloo though. Why would Bison even bother reviving him after all that has happened!? :D
 
 This new Charlie looks a lot like the first marvel vs. capcom where he was called Shadow but this version is way way more cooler! those teleports that Ultra-ish shadowy cynematic finish... this could be a favorite. :D 

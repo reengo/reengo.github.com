@@ -1,17 +1,21 @@
 <ul id="postListing" class="posts">
   {% for post in site.posts %}
+  {% if forloop.index != 1 %}
+  <a href="{{ post.url }}">
     <li class="box">
     <!-- <li class="box" style="background-image:url({{ post.featured_image }});background-size:cover"> -->
 		{% if post.featured_image %}
-			<img class="img-responsive" src="{{ post.featured_image }}">
+			<img class="animated fadeIn" src="{{ post.featured_image }}">
 		{% endif %}
 
 		<div class="box-body">
 			<h5 class="entrytitle"><a href="{{ post.url }}"><strong>{{ post.title }} </strong></a> </h5>
 		
-			<p>{{ post.content | strip_html | truncatewords: 15 }} <a href="{{ post.url }}">more.</a></p>
+			<p>{{ post.content | strip_html | truncatewords: 15 }}</p>
 		</div>
     </li>
+  </a>
+  {% endif %}
   {% endfor %}
   <li><button class="next btn btn-primary btn-block btn-lg">Load More Posts...</button></li>
 </ul>
