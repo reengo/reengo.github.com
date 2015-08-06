@@ -1,0 +1,90 @@
+ul#postListing{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+/* Content */
+#post{
+	img{
+		.img-responsive;
+	}
+}
+
+.posts{
+	border-bottom:1px solid #ddd;
+	border-right:1px solid #ddd;
+
+	li{
+		border-top:1px solid #ddd;
+		border-left:1px solid #ddd;
+	}
+}
+
+.next{
+	border-radius:0;
+}
+
+footer{
+	#gradient.vertical(rgba(242,235,234,1); rgba(252,252,252,1); 0%; 100%);
+
+	.fb-like{ display:none; }
+}
+
+.sig{
+	padding:20px 0;
+}
+
+pre{
+	padding: 10px !important;
+	margin: 10px 0 !important;
+	border: 2px dashed #ccc;
+	background: #ececec;
+}
+
+/* General Content Styles  */
+.load-more{
+	padding:20px;
+	margin:0 auto;
+	width:100%;
+	display:block;
+	text-align:center;
+	color:#c6065c;
+}
+
+nav.post-stats{
+	text-align:right;
+
+	li{
+		display:inline-block;
+
+		&.star{
+			background:url(../images/star-sprite.png);
+			height:21px;
+			width:21px;
+
+			span{display:none;}
+		}
+
+		&.pings{
+			a{
+				background:#c6065c;
+				border:1px solid #2b1009;
+				color:#fff;
+			}
+		}
+
+		&.comments{
+			a{
+				background:#2b1009;
+				border:1px solid #2b1009;
+				color:#fff;
+			}
+		}
+
+		a{
+			font:normal 14px Arial, Helvetica, sans-serif;
+			padding:3px 5px;
+			border-radius: 5px;
+		}
+	}
+}

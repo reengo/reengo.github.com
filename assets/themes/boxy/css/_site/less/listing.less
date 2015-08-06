@@ -1,0 +1,46 @@
+/* Listing Section */
+.listing{
+	overflow:hidden;
+	background:none;
+	background:transparent;
+	border:none;
+	line-height:22px;
+
+	&:hover{ background:#ececec; }
+	&.active{
+		p{margin:0 0 0 1em;}
+		span.more{
+			text-align:right;
+			display:block;
+		}
+	}
+
+	p{
+		margin:0 0 0 1em;
+		overflow:hidden;
+	}
+
+	span.more{display:none;}
+
+	h3{
+		font:bold 3em Arial, Helvetica, sans-serif;
+		color:#fff;
+		margin:5px 10px;
+		line-height:18px;
+	}
+
+	span,time,address{display:inline;}
+
+	footer{		
+		padding:20px 0 0 0;
+		width:100%;
+
+		div{
+			font:italic 11px verdana;
+			
+			a{color:#aaa;}
+		}
+	}	
+
+	figure{overflow:hidden;}
+}
