@@ -23,6 +23,6 @@ This Game is getting more and more exciting that it ever was... Charlie Nash is 
 
 What's even more interesting is the mystery on how the story line progresses. As we all know, Guile is looking for Charlie who was presumed dead, killed by sacrificing himself to kill Bison after a long brainwashed drama he had to go through do Shadaloo stuff as a zombie killer... er... killer zombie? tsk, a killer that is much like a zombie! ...there. They both fell off a cliff... some drama... both of them died... some drama... but Bison recovered... some drama... and now Charlie's back! 
 
-It could be that someone revived him. probably whats left of SIN or some other organization? Judging from the stitches and Frankenstein-like look... he could have been an experiment as well... Probably not by Shadaloo though. Why would Bison even bother reviving him after all that has happened!? :D
+It could be that someone revived him. a new character perhaps? probably whats left of SIN or some other organization? Judging from the stitches and the Frankenstein-like look... he could have been experimented on and maybe not himself at all... again! :D One thing is for sure, this is not Shadaloo's doing. Why would Bison even bother reviving him after all that has happened!? 
 
-This new Charlie looks a lot like the first marvel vs. capcom where he was called Shadow but this version is way way more cooler! those teleports that Ultra-ish shadowy cynematic finish... this could be a favorite. :D 
+This new Charlie looks a lot like the version on the first marvel vs. capcom where he was called Shadow but this one is way way more cooler! Those teleports that Ultra-ish shadowy cynematic finish... which makes me curious... does he still have a Raging Demon super? :D 

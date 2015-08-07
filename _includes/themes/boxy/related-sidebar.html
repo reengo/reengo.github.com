@@ -1,0 +1,58 @@
+<ul>
+  <li>
+      {% if site.related_posts %}
+      <h3>Related Posts</h3>
+      <ul class="related-posts">
+        {% for post in site.related_posts %}
+        {% if forloop.index < 8 %}
+          <li class="box">
+            <a href="{{ post.url }}">
+            <!-- <li class="box" style="background-image:url({{ post.featured_image }});background-size:cover"> -->
+            {% if post.featured_image %}
+              <img class="animated fadeIn img-responsive" src="{{ BASE_PATH }}/{{ post.featured_image }}">
+            {% endif %}
+            <h5 class="entrytitle"><strong>{{ post.title }} </strong></h5>
+            </a> 
+          </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+      {% else %}
+        <nav>
+        {% for category in site.categories %}
+            <details class="active-subnav">
+              <summary>{{ category | first }}</summary>
+              <ul>
+                  {% for posts in category %}
+                    {% for post in posts %}
+                    <li><a href="{{ post.url }}"><span>{{ post.title }}</span></a></li>
+                    {% endfor %}
+                  {% endfor %}  
+              </ul>
+          </details>          
+        {% endfor %}
+        </nav>
+      {% endif %}
+    </li>
+
+    <li class="list-header text-center"><h3>Author</h3></li>
+
+    <li class="contact">
+      <img class="author-avatar img-circle img-responsive img-thumbnail" src="https://s.gravatar.com/avatar/d6be1682fed668f61587d2397b06a2df?s=100">
+      <p>{{ site.author.name }}<p>
+      <p>{{ site.tagline }}</p>
+      <p><a href='mailto:{{ site.author.email }}'>{{ site.author.email }}</a></p>
+    </p>
+  </li>
+  <li class="social text-center">
+    <p>
+      <a href="http://github.com/{{ site.author.github }}/">github.com/{{ site.author.github }}</a><br />
+      <a href="http://twitter.com/{{ site.author.twitter }}/">twitter.com/{{ site.author.twitter }}</a><br />
+    </p>
+  </li>
+  <li class="rss text-center">
+    <a href="http://feeds.feedburner.com/{{ site.author.feedburner }}">
+      <img src="{{ ASSET_PATH }}/images/rss.png" alt="Subscribe to RSS Feed" />
+    </a>
+  </li>
+</ul>
