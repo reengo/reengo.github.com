@@ -17,9 +17,10 @@ tags:
 - nbi clearance
 - park square
 - work
+featured_image: 'assets/images/nbi-300x185.jpg'
 ---
 
-[caption id="attachment_590" align="alignleft" width="300"][![NBI Clearance Renewal Card](http://www.reengo.com/wp-content/uploads/2010/09/nbi-300x185.jpg)](http://www.reengo.com/nbi-clearance-renewal/nbi) NBI Clearance Renewal Card[/caption]
+[![NBI Clearance Renewal Card]({{BASE_PATH}}/assets/images/nbi-300x185.jpg)]({{BASE_PATH}}/assets/images/nbi-300x185.jpg)
 
 I never knew renewing my NBI clearance certificate for work would be this easy! The last time I took a clearance renewal had been a very bad experience, I've been through hoards of applicants at the satellite office in Quezon City Hall, HUNDREDS! (could be thousands, eheh) if I could remember right. Its a good thing I decided to get a "Clearance Renewal Card" when I did the same thing a couple of years back. It only got convenient just early this morning, and judging from how government operations sucks, this system surprisingly works!
 

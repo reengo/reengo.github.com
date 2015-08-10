@@ -23,7 +23,7 @@ To resolve this, you need to replace the URL saved as text (ex: http://mysite.co
 
 On PHPMyAdmin, select your database and look for SQL tab. This is where you can run SQL queries to manage your db.
 
-[![Screen Shot 2014-04-30 at 2.14.16 AM](http://www.reengo.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-30-at-2.14.16-AM.png)](http://www.reengo.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-30-at-2.14.16-AM.png)
+[![Screen Shot 2014-04-30 at 2.14.16 AM](http://rgb.reengo.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-30-at-2.14.16-AM.png)](http://rgb.reengo.com/wp-content/uploads/2014/04/Screen-Shot-2014-04-30-at-2.14.16-AM.png)
 
 After so, run the following Query format.
 

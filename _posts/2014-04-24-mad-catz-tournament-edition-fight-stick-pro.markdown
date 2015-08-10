@@ -28,13 +28,13 @@ Tried it with my good friend and sparring partner Rich (PSN/KingFarenheit) and w
 
 
 
-[![](http://www.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.45.07-e1398372950969-1024x613.jpg)
-](http://www.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.45.07-e1398372950969.jpg)
+[![](http://rgb.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.45.07-e1398372950969-1024x613.jpg)
+](http://rgb.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.45.07-e1398372950969.jpg)
 
 
 
 
-[The awesome MadCatz SFXT Tournament Edition Fight Stick Pro.](http://www.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.45.07-e1398372950969.jpg)
+[The awesome MadCatz SFXT Tournament Edition Fight Stick Pro.](http://rgb.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.45.07-e1398372950969.jpg)
 
 
 I've had an imitation of the Tekken 6 FightStick which comes in cheap here in the Philippines. Most of them are high maintenance, that the buttons often break. Well its an imitation of the original high priced fight stick so what else would you expect. But coming from that premise, It feels great to own and use one with very good quality.
@@ -42,12 +42,12 @@ I've had an imitation of the Tekken 6 FightStick which comes in cheap here in th
 
 
 
-[![](http://www.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.24.59-e1398372042528.jpg)](http://www.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.24.59-e1398372042528.jpg)
+[![](http://rgb.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.24.59-e1398372042528.jpg)](http://rgb.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.24.59-e1398372042528.jpg)
 
 
 
 
-[Tekken6 Fight Stick](http://www.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.24.59-e1398372042528.jpg)
+[Tekken6 Fight Stick](http://rgb.reengo.com/wp-content/uploads/2014/04/2014-04-25-04.24.59-e1398372042528.jpg)
 
 
 

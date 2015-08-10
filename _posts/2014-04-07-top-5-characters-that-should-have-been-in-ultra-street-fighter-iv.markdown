@@ -32,37 +32,40 @@ But anyways, it never stopped me to think who would have been a better character
 One more thing, I find it silly that people complain that she looks and moves (neutral stance) so much like Cammy, well what would you expect from a Cammy clone?
 
 
-[![usfiv_decapre1](http://www.reengo.com/wp-content/uploads/2014/04/usfiv_decapre1.jpg)](http://www.reengo.com/wp-content/uploads/2014/04/usfiv_decapre1.jpg)
+[![usfiv_decapre1](http://rgb.reengo.com/wp-content/uploads/2014/04/usfiv_decapre1.jpg)](http://rgb.reengo.com/wp-content/uploads/2014/04/usfiv_decapre1.jpg)
 
 
 **Anyways, On with the List:**
 
 
 
-![](http://img2.wikia.nocookie.net/__cb20130416072657/streetfighter/images/a/a9/Eagle-sfa3max-bust.png)**#5: Eagle
-[http://streetfighter.wikia.com/wiki/Eagle](http://streetfighter.wikia.com/wiki/Eagle)
-**Eagle is a formidable fighter, whats really cool about him is the fact that he uses Filipino martial arts Eskrima. He could have been a great addition to the Street fighter IV roster, if only there have been more player support and backstory to cleverly link to the other characters storyline. Unfortunately, eagle has not been into a lot of Street Fighter games to have  a good backstory.
+![](http://img2.wikia.nocookie.net/__cb20130416072657/streetfighter/images/a/a9/Eagle-sfa3max-bust.png)
+[**#5: Eagle**](http://streetfighter.wikia.com/wiki/Eagle)
 
-**#4: Alex**![](http://img3.wikia.nocookie.net/__cb20110708145644/streetfighter/images/thumb/d/d7/Alex.jpg/250px-Alex.jpg)
-**[http://streetfighter.wikia.com/wiki/Alex](http://streetfighter.wikia.com/wiki/Alex)
-**So what has happened to this guy? I mean he was literally being marketed as a lead character in Street Fighter III. He could have been a better fighter if Abel didnt come along :D. He's way cooler than Abel but sadly not that much support even from the creators themselves.
 
-**
-**  
-![](http://img2.wikia.nocookie.net/__cb20110905234646/streetfighter/images/thumb/4/43/Ingrid.jpg/338px-Ingrid.jpg)**#3: Ingrid
-[http://streetfighter.wikia.com/wiki/Ingrid](http://streetfighter.wikia.com/wiki/Ingrid)
-**Ingrid has also not been well exposed in the Street Fighter universe. In fact, she only appeared fewer than a handful of games. But come to think of it, her character is actually too powerful to be added on the SFIV roster and possibly a bit more complicated to inject to other character's story lines. But what I really like about Ingrid is the character design, she's a bit like Tekken characters Lily, Xiaoyu and Alisa all combined into one awesome fighter.
+Eagle is a formidable fighter, whats really cool about him is the fact that he uses Filipino martial arts Eskrima. He could have been a great addition to the Street fighter IV roster, if only there have been more player support and backstory to cleverly link to the other characters storyline. Unfortunately, eagle has not been into a lot of Street Fighter games to have  a good backstory.
 
-**
-#2: Skullomania**  
+![](http://img3.wikia.nocookie.net/__cb20110708145644/streetfighter/images/thumb/d/d7/Alex.jpg/250px-Alex.jpg)
+[**#4: Alex** ](http://streetfighter.wikia.com/wiki/Alex)
+
+So what has happened to this guy? I mean he was literally being marketed as a lead character in Street Fighter III. He could have been a better fighter if Abel didnt come along :D. He's way cooler than Abel but sadly not that much support even from the creators themselves.
+
+
+![](http://img2.wikia.nocookie.net/__cb20110905234646/streetfighter/images/thumb/4/43/Ingrid.jpg/338px-Ingrid.jpg)
+[**#3: Ingrid**](http://streetfighter.wikia.com/wiki/Ingrid)
+
+Ingrid has also not been well exposed in the Street Fighter universe. In fact, she only appeared fewer than a handful of games. But come to think of it, her character is actually too powerful to be added on the SFIV roster and possibly a bit more complicated to inject to other character's story lines. But what I really like about Ingrid is the character design, she's a bit like Tekken characters Lily, Xiaoyu and Alisa all combined into one awesome fighter.
+ 
 ![](http://img3.wikia.nocookie.net/__cb20080212051436/streetfighter/images/thumb/b/bc/Skullomania_big.jpg/430px-Skullomania_big.jpg)
-[**http://streetfighter.wikia.com/wiki/Skullomania**](http://streetfighter.wikia.com/wiki/Skullomania)
+[**#2: Skullomania**](http://streetfighter.wikia.com/wiki/Skullomania)
+
 From the Street Fighter EX Series, this guy is one of my favorites. As far as I know, SF EX characters' rights (excluding the original SF characters) are all owned by [Arika](http://streetfighter.wikia.com/wiki/Arika), so it would be less likely to see these guys on Capcom titles until there could be an agreement with Arika. But surely there could have been ways to make it possible. This guy is unique since he's themed similar to Japanese "sentai" characters. which has been favored locally in the likes of Mask Rider Black a.k.a. Kamen Rider
 
-**#1: Karin
-[http://streetfighter.wikia.com/wiki/Karin](http://streetfighter.wikia.com/wiki/Karin)
-**My biggest disappointment with both Street Fighter III and IV was that it didn't have Karin. Karin was one of my main characters in Street Fighter Alpha 3 and really wanted to see more of this character in action and not only some background cameos here and there. Maybe her move set is not as fancy as Juri, I mean Kaisen Dankairaku awesomeness and all. But she could be transitioned more from a supporting character, being just a Sakura rival (which kinda resembles Tekken's Asuka - Lili relationship :D) to a lot cooler storyline like maybe being kidnapped by Shadaloo and brainwashed to become a DOLL but eventually seeks out Sakura instead... I dont know...
+
+[**#1: Karin**](http://streetfighter.wikia.com/wiki/Karin)
+
+My biggest disappointment with both Street Fighter III and IV was that it didn't have Karin. Karin was one of my main characters in Street Fighter Alpha 3 and really wanted to see more of this character in action and not only some background cameos here and there. Maybe her move set is not as fancy as Juri, I mean Kaisen Dankairaku awesomeness and all. But she could be transitioned more from a supporting character, being just a Sakura rival (which kinda resembles Tekken's Asuka - Lili relationship :D) to a lot cooler storyline like maybe being kidnapped by Shadaloo and brainwashed to become a DOLL but eventually seeks out Sakura instead... I dont know...
 
 Anyways, Karin could be a good 5th new character instead of Decapre, or maybe a sixth new character? but Decapre will do. Its a good thing they made her a charge character. Let's see how it goes when Ultra Street Fighter IV arrives...
 
-[![karin](http://www.reengo.com/wp-content/uploads/2014/04/karin.jpg)](http://www.reengo.com/wp-content/uploads/2014/04/karin.jpg)
+[![karin]({{BASE_PATH}}/assets/images/karin.jpg)]({{BASE_PATH}}/assets/images/karin.jpg)

@@ -14,9 +14,9 @@ tags:
 featured_image: 'assets/images/html5_and_css3_logos_1.png'
 ---
 
-Did you know that you can create columns from a single list (UL/OL) with pure CSS? It certainly is a great to have this on CSS3. ang it might lessen the need for you to do tables... damn tables...
+Did you know that you can create columns from a single list (UL/OL) with pure CSS? It certainly is great to have this feature on CSS3 since you wont need to bother scripting it out on javascript. And it might lessen the need for you to do tables as well... those damn tables...
 
-Here's the code:
+Anyways, here's the code:
 
 
 	ul {
@@ -28,6 +28,6 @@ Here's the code:
 	    column-gap: 20px;
 	}
 
-Checking on [Browser Compatibility](http://caniuse.com/#feat=multicolumn) you would notice that IE is no go... so there. If you are purposely ditching IE on your website, then this is a great idea.
+Checking on [Browser Compatibility](http://caniuse.com/#feat=multicolumn) you would notice that IE is no go... as expected. If you are purposely ditching IE on your website, then this is a great idea.
 
-Just take note though, its good practice to leave all styling to CSS and all other fancy stuff to Javascript. So if you are using Javascript to separate lists in columns dynamically, This may be a better option.
+Just always stick at the back of your head that its good practice to leave all styling to CSS, leave all the behavioural and dom manipulations to Javascript. So if you are using Javascript to separate lists in columns dynamically instead of this, then this may be a good approach for you.

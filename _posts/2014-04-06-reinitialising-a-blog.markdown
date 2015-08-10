@@ -1,6 +1,5 @@
 ---
 author: admin
-comments: false
 date: 2014-04-06 20:32:02+00:00
 layout: post
 slug: reinitialising-a-blog

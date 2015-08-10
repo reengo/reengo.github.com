@@ -12,6 +12,7 @@ categories:
 tags:
 - code conlicts
 - jquery
+- front end
 featured_image: 'assets/images/jquery_logo.png'
 ---
 
@@ -19,13 +20,14 @@ Working with Magento, you may encounter issues with Javascript libraries. Especi
 
 One known solution for this is to use jQuery.noConflict to let you use the symbol, instead of renaming it to jQuery.
 
-```javascript
-jQuery.noConflict();
-(function($) {
-   $(function() {
-      // your js code goes here.
-   });
-})(jQuery);
-```
+
+	jQuery.noConflict();
+	
+	(function($) {
+	   $(function() {
+	      // your js code goes here.
+	   });
+	})(jQuery);
+
 
 Read more about jQuery noConflict [here](https://api.jquery.com/jQuery.noConflict/). If you happen to have the same problem, hope this one helps.

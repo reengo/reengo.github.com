@@ -7,20 +7,22 @@ description: ""
 
 #About Reengo
 
-[![Reengo Banner](../assets/images/reengo.png)](../assets/images/reengo.png)
+[![Reengo Banner]({{BASE_PATH}}/assets/images/reengo.png)]({{BASE_PATH}}/assets/images/reengo.png)
 
-You have just landed on Reengo. Its an anything goes, Front End Ninja Gamer Blog sharing the adventures of an app developer and gaming enthusiast.
+You have just landed on Reengo. Its an anything goes blog, about a gamer and a developer sharing coding and gaming adventures to the world.
 
 **Why Reengo?**
 
-Reen is a old pseudonym I used in the days of the old. Its also an exaggerated spelling of my real name which you could obviously point out. Over the years, as the internet get stricter, not letting you choose a username lower than 6 characters. I basically began to use the name on a regular signup. This blog is mainly about my coding and gaming experiences and its a little difficult to think of a catchier name than Reengo, so… go figure. :D
+Google, Yahoo! and Facebook have 2 letter 'o's in them?, Reengo has 2 'e's... no connection whatsoever :D. But 2 'e's would basically stand for Exceptional and Entertaining at least that what I hope this blog would be.
+
+This blog is mainly about my coding and gaming experiences I write stuff that I think would be interresting for guys like me.
 
 **What’s with the Code Monkey Reference?**
 
 <iframe width="100%" height="375" src="//www.youtube.com/embed/5W_wd9Qf0IE" frameborder="0" allowfullscreen></iframe>
 
 
-It started with this song by Jonathan Coulton, a very inspiring song which I could relate very well to in the early days of my IT career. Unfortunately, code monkeys are also often referred to as programmers who does repetitive code, usually inexperienced developers who does all the boring stuff. Moving up to a point where I no longer need to call myself a code monkey, I still look back on how it was back then when all I could do, was follow what my boss tells me to do.
+It started with this song by Jonathan Coulton, a very inspiring song which I could relate very well to in the early days of my career. Unfortunately, code monkeys are also often referred to as programmers who does repetitive code, usually inexperienced developers who does all the boring stuff. Moving up to a point where I no longer need to call myself a code monkey, I still look back on how it was back then when all I could do, was follow what my boss tells me to do.
 
 **Where I’m at**
 
