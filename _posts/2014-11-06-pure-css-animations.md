@@ -4,7 +4,7 @@ title: "Pure CSS Animations"
 description: ""
 published: true
 category: ['front end web', 'web development']
-tags: ['front end','front end web', 'web development', 'css animations']
+tags: ['front end','front end web', 'web development', 'css animations', 'css', 'css3']
 featured_image: 'assets/images/CSS3.jpg'
 ---
 

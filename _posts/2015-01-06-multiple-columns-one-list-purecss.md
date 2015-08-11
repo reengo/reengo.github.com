@@ -10,6 +10,8 @@ categories:
 - Tutorials
 tags:
 - pure css
+- css3
+- modulo
 - front end
 featured_image: 'assets/images/html5_and_css3_logos_1.png'
 ---
