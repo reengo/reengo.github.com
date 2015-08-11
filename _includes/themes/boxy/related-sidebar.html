@@ -1,3 +1,7 @@
+{% for post in site.related_posts %}
+  post.title
+{% endfor %}
+
 {% assign hasSimilar = '' %}
 {% for post in site.related_posts %}
     {% assign postHasSimilar = false %}
