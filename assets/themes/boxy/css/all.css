@@ -5846,6 +5846,41 @@ a {
 blockquote {
   text-align: center;
 }
+header {
+  height: 95px;
+}
+header .navbar-toggle {
+  margin-top: 20px;
+}
+header .navbar {
+  background: none;
+  border: none;
+}
+header .navbar-collapse.in,
+header .navbar-collapse.collapsing {
+  background: white;
+  padding: 0;
+}
+header .navbar-collapse.in .container,
+header .navbar-collapse.collapsing .container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+header .navbar-collapse.in .nav,
+header .navbar-collapse.collapsing .nav {
+  width: 100%;
+}
+header .navbar-collapse.in .nav li,
+header .navbar-collapse.collapsing .nav li {
+  width: 100%;
+}
+header .header-menu a {
+  border-radius: 0;
+}
+header .navbar-header .logo {
+  margin: 20px;
+}
 header.main {
   background-image: -webkit-linear-gradient(top, #fcfcfc 0%, #f2ebea 100%);
   background-image: linear-gradient(to bottom, #fcfcfc 0%, #f2ebea 100%);
@@ -5894,10 +5929,11 @@ header.main li span.nav-sub-title {
   background-size: cover;
   background-position: center 95px;
   background-attachment: fixed;
-  padding-top: 110px;
+  padding: 120px 0 20px 0;
 }
 .hero .jumbotron {
-  margin: 20px 30px;
+  margin-bottom: 0;
+  margin: 0 30px;
   background-color: rgba(0, 0, 0, 0.5);
   color: #eee;
   border-radius: 20px;
@@ -6032,6 +6068,20 @@ nav.post-stats li a {
   padding: 3px 5px;
   border-radius: 5px;
 }
+@media (max-width: 768px) {
+  .hero {
+    height: inherit;
+  }
+  .box {
+    height: inherit !important;
+  }
+  .box .img-wrapper img {
+    left: 0 !important;
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
 /*  Carousel Section */
 /* Sidebar Styles  */
 aside.widget-area ul {
@@ -6096,6 +6146,10 @@ aside.widget-area h2 {
   color: #333;
 }
 /* Single Post/Page Styles  */
+article,
+aside {
+  margin-top: 100px;
+}
 #post p,
 #post ul,
 #post ol {
@@ -6137,6 +6191,9 @@ article.post footer.entry-meta {
 }
 article.post footer.entry-meta a {
   color: #aaa;
+}
+.related-posts .box img {
+  width: 100% !important;
 }
 div#author-info {
   border: 1px dotted #222;

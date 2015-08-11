@@ -16,23 +16,7 @@
 </head>
 <body>
 
-<header class="main animated navbar-fixed-top">
-  <div class="container">
-    <h1 class="col-md-8"><a href="{{HOME_PATH}}"><img src="{{ ASSET_PATH }}/images/reengo-logo.png" alt="" title=""/></a></h1>
-
-    <nav class="col-md-4">
-      <ul id="access" role="navigation" class="header-menu nav nav-justified">
-        <li><a class="extra" href="{{HOME_PATH}}"><span class="nav-title">Blog</span><span class="nav-sub-title">code review on life</span></a></li>
-         <!--<li><a class="extra" href="{{ BASE_PATH }}{{ site.JB.archive_path }}"><span class="nav-title">Blog</span><span class="nav-sub-title">code review on life</span></a></li>-->
-        <!-- <li><a class="extra" href="{{ BASE_PATH }}{{ site.JB.pages_path }}"><span class="nav-title">Pages</span><span class="nav-sub-title">niceties</span></a></li> -->
-        <!--<li><a class="extra" href="{{ BASE_PATH }}{{ site.JB.categories_path }}"><span class="nav-title">Tutorials</span><span class="nav-sub-title">learn stuff</span></a></li>-->
-        <!--<li><a class="extra" href="{{ BASE_PATH }}{{ site.JB.tags_path }}"><span class="nav-title">Tags</span><span class="nav-sub-title">tags</span></a></li>-->
-        <!--<li><a class="extra" href="{{ BASE_PATH }}/pages/playground.html"><span class="nav-title">Playground</span><span class="nav-sub-title">Experiments</span></a></li>-->
-        <li><a class="extra" href="{{ BASE_PATH }}/pages/about-us.html"><span class="nav-title">About</span><span class="nav-sub-title">Who's Responsible</span></a></li>
-      </ul><!-- #access -->
-    </nav>
-  </div>
-</header>
+{% include themes/boxy/header.html %}
 
 {% include themes/boxy/hero-parallax.html %}
 
@@ -47,20 +31,22 @@
 </div>
 
 <section class="post-block no-content light">
-  <article class="section-content">
-    <a href="#"><i></i><img class="img-circle img-responsive img-thumbnail"src="https://s.gravatar.com/avatar/d6be1682fed668f61587d2397b06a2df?s=100"></a> 
-    <i class="fa fa-long-arrow-right fa-6"></i>
-    <a href="http://www.ringo.ph"><button class="btn btn-default"><img src="http://ringo.ph/img/logo-ringo-pad.png"></button></a>
-    <h2>It's-a-me! Ringo!</h2>
-    <p>Yeah I just write what I want... f oakogkoasgojwojasd aosdjfoqjojadogjadf oj. :D</p>  
-    <a href="/pages/about-us.html"><button class="btn btn-primary">About the Author</button></a>
+  <article class="section-content row">
+    <div class="col-sm-6">
+      <a href="#"><i></i><img class="img-circle img-responsive img-thumbnail"src="https://s.gravatar.com/avatar/d6be1682fed668f61587d2397b06a2df?s=100"></a> 
+      <i class="fa fa-long-arrow-right fa-6"></i>
+      <a href="http://www.ringo.ph"><button class="btn btn-default"><img src="http://ringo.ph/img/logo-ringo-pad.png"></button></a>
+      <h2>It's-a-me! Ringo!</h2>
+      <p>I code, I play, I conquer! Come visit my folio :D</p>  
+      <a href="/pages/about-us.html"><button class="btn btn-primary">About REENGO</button></a>
+    </div>
+
+    <div class="col-sm-6">
+      <h2>Send me something...</h2>
+      {% include JB/comments %}
+    </div>
   </article>
 </section>
-
-<div class="container">
-  <h2>Send me something... anything! :D</h2>
-  {% include JB/comments %}
-</div>
 
 {% include themes/boxy/footer.html %}
 
