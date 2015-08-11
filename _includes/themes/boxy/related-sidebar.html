@@ -1,7 +1,7 @@
-<div class="relatedPosts">
-
+<ul>
+  <li>
     <h3>Related post</h3>
-
+    <ul class="related-posts">
     {% for post in site.posts %}
 
         {% assign sameTagCount = 0 %}
@@ -11,101 +11,25 @@
             {% if page.tags contains tag %}
 
               {% assign sameTagCount = sameTagCount | plus: 1 %}
-              {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
               {% assign commonTags = commonTags | append: tagmarkup %}
 
             {% endif %}
         {% endfor %}
 
-        {% if sameTagCount >= 2 %}
-          <div>
-            <h5><a href="{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
-          </div>
+        {% if sameTagCount >= 2 and post.title != page.title %}
+          <li class="box">
+            <a href="{{ site.url }}{{ post.url }}">
+              {% if post.featured_image %}
+                <img class="animated fadeIn img-responsive" src="{{ BASE_PATH }}/{{ post.featured_image }}">
+              {% endif %}
+              <h5 class="entrytitle"><strong>{{ post.title }} </strong></h5>
+            </a>
+          </li>
         {% endif %}
 
     {% endfor %}
-
-</div>
-
-{% for post in site.related_posts %}
-  {{ post.title }}
-{% endfor %}
-
-{% assign hasSimilar = '' %}
-{% for post in site.related_posts %}
-    {% assign postHasSimilar = false %}
-    {% for tag in post.tags %}
-        {% for thisTag in page.tags %}
-            {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
-                {% if hasSimilar.size == 0 %}
-                <h4>Similar Posts</h4>
-                <ul>
-                {% endif %}
-                <li class="relatedPost">
-                    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}
-                    {% if post.series %}
-                        (Series: {{ post.series }})
-                    {% endif %}
-                    </a>
-                </li>
-                {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
-                {% assign postHasSimilar = true %}
-            {% endif %}
-        {% endfor %}
-    {% endfor %}
-{% endfor %}
-{% if hasSimilar.size > 0 %}
     </ul>
-{% endif %}
-
-<ul>
-  <li>
-{% assign hasSimilar = '' %}
-{% for post in site.related_posts %}
-    {% assign postHasSimilar = false %}
-    {% for tag in post.tags %}
-        {% for thisTag in page.tags %}
-            {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
-                {% if hasSimilar.size == 0 %}
-                <h3>Related Posts</h3>
-                <ul class="related-posts">
-                {% endif %}
-                <li class="box">
-                    <a href="{{ site.url }}{{ post.url }}">
-                      {% if post.featured_image %}
-                        <img class="animated fadeIn img-responsive" src="{{ BASE_PATH }}/{{ post.featured_image }}">
-                      {% endif %}
-                    <h5 class="entrytitle"><strong>{{ post.title }} </strong></h5>
-                    {% if post.series %}
-                        (Series: {{ post.series }})
-                    {% endif %}
-                    </a>
-                </li>
-                {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
-                {% assign postHasSimilar = true %}
-            {% endif %}
-        {% endfor %}
-    {% endfor %}
-{% endfor %}
-{% if hasSimilar.size > 0 %}
-    </ul>
-{% else %}
-  <nav>
-    {% for category in site.categories %}
-        <details class="active-subnav">
-          <summary>{{ category | first }}</summary>
-          <ul>
-              {% for posts in category %}
-                {% for post in posts %}
-                <li><a href="{{ post.url }}"><span>{{ post.title }}</span></a></li>
-                {% endfor %}
-              {% endfor %}  
-          </ul>
-      </details>          
-    {% endfor %}
-    </nav>
-{% endif %}
-</li>
+  </li>
 
     <li class="list-header text-center"><h3>Author</h3></li>
 

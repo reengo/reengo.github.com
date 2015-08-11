@@ -12,6 +12,7 @@ tags:
 - final fantasy
 - rpg
 - final fantasy xv
+- square enix
 featured_image: 'assets/images/ffxv.jpg'
 ---
 
