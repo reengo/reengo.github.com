@@ -28,6 +28,6 @@ It started with this song by Jonathan Coulton, a very inspiring song which I cou
 
 I may not post that much on social networks but if you happen to get curious and want to follow me around, please do so. and dont forget to click like on the likebox
 
-**Technical stuff**
+**Technical Stuff**
 
-This is site loads fast because its a static blog :D Its built on Jekyll with content written in Markdown. FE is built on Bootstrap 3 with CSS preprocessed with LESSCSS. Jquery was used for dom manipulations and easy animations with animate.css. Feel free to browse the code [here](https://github.com/reengo/reengo.github.com);
+This site loads fast because it behaves like a complete static blog :D Its built on Jekyll with content written in Markdown. FE is built on Bootstrap 3 with CSS preprocessed with LESSCSS. Jquery was used for DOM manipulations and easy animations with animate.css. Feel free to browse the code [here](https://github.com/reengo/reengo.github.com);

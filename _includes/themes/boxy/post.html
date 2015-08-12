@@ -3,6 +3,12 @@
   <p class="meta">
     {{ page.date | date_to_long_string }} 
     {% if page.location %}{{ page.location }}{% endif %}
+    <div class="ssk-group" data-url="{{BASE_PATH}}/{{page.url}}" data-text="Share text default" >
+        <a href="" class="ssk ssk-text ssk-facebook" data-text="- http://reengo.com/{{page.url}}">Share</a>
+        <a href="" class="ssk ssk-text ssk-twitter" data-text="- http://reengo.com/{{page.url}}">Tweet</a>
+        <a href="" class="ssk ssk-text ssk-google-plus" data-text="- http://reengo.com/{{page.url}}">Post</a>
+        <a href="" class="ssk ssk-text ssk-email" data-media="">Email</a>
+    </div>
   </p>
   {{ content }}
 </div>

@@ -13,6 +13,7 @@
    <!-- Homepage CSS -->
    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/all.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="{{ ASSET_PATH }}/css/animate.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="{{ ASSET_PATH }}/css/socialshare.min.css" type="text/css" />
 </head>
 <body>
 
@@ -53,7 +54,11 @@
 {% include JB/analytics %}
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="{{ ASSET_PATH }}/js/socialshare.min.js"></script>
 <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
 <script src="{{ ASSET_PATH }}/js/scripts.js"></script>
+<script type="text/javascript">
+SocialShareKit.init();
+</script>
 </body>
 </html>

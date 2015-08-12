@@ -13,6 +13,7 @@ tags:
 - rpg
 - final fantasy xv
 - square enix
+- ps4
 featured_image: 'assets/images/ffxv.jpg'
 ---
 
