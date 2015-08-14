@@ -6308,11 +6308,14 @@ div#author-info #author-description h2 {
   position: relative;
   left: -25%;
   -webkit-filter: grayscale(80%);
+  -webkit-transition: 0.5s ease-in;
+  transform: scale(1, 1);
 }
 .box .img-wrapper img:hover,
 .rounded .img-wrapper img:hover {
   -webkit-filter: grayscale(0%);
   -webkit-transition: 0.5s ease-in-out;
+  transform: scale(1.1, 1.1);
 }
 section {
   width: 100%;

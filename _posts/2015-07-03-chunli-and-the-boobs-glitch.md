@@ -14,7 +14,7 @@ tags:
 - street fighter v
 - bewbs
 - DOA
-featured_image: 'assets/images/sfv-chun-li-artwork.png'
+featured_image: 'assets/images/sfv-chun-li-artwork.jpg'
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/eAlKC9BlUJg" frameborder="0" allowfullscreen></iframe>

@@ -32,7 +32,7 @@
   </div>
 </div>
 
-<section class="post-block no-content light">
+<section class="post-block no-content light" style="background:#efefef">
   <article class="section-content row">
     <div class="col-sm-6">
       <a href="#"><i></i><img class="img-circle img-responsive img-thumbnail"src="https://s.gravatar.com/avatar/d6be1682fed668f61587d2397b06a2df?s=100"></a> 
@@ -44,6 +44,14 @@
     </div>
 
     <div class="col-sm-6">
+      <div class="fb-page" data-href="https://www.facebook.com/pages/Reengo/323493371022384" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/pages/Reengo/323493371022384"><a href="https://www.facebook.com/pages/Reengo/323493371022384">Reengo</a></blockquote></div></div>
+    </div>
+  </article>
+</section>
+
+<section class="post-block no-content light" style="background:#f2ebea">
+  <article class="section-content row">
+    <div class="row">
       <h2>Send me something...</h2>
       {% include JB/comments %}
     </div>
@@ -61,5 +69,13 @@
 <script type="text/javascript">
 SocialShareKit.init();
 </script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=394649140698737";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 </body>
 </html>

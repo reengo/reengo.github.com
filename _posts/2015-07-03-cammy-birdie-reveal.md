@@ -15,7 +15,7 @@ tags:
 - street fighter v
 - bewbs
 - chains
-featured_image: 'assets/images/sfv-cammy.jpeg'
+featured_image: 'assets/images/sfv-cammy.jpg'
 ---
 
 It's a great day for Street Fighter Fans today... Birdie and Cammy is coming to SFV! 

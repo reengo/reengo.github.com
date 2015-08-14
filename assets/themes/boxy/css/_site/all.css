@@ -1,4 +1,5 @@
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+@import 'socialshare.min.css';
 @import url(http://fonts.googleapis.com/css?family=PT+Sans+Caption:400,700);
 html {
   font-family: sans-serif;
@@ -5846,6 +5847,41 @@ a {
 blockquote {
   text-align: center;
 }
+header {
+  height: 95px;
+}
+header .navbar-toggle {
+  margin-top: 20px;
+}
+header .navbar {
+  background: none;
+  border: none;
+}
+header .navbar-collapse.in,
+header .navbar-collapse.collapsing {
+  background: white;
+  padding: 0;
+}
+header .navbar-collapse.in .container,
+header .navbar-collapse.collapsing .container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+header .navbar-collapse.in .nav,
+header .navbar-collapse.collapsing .nav {
+  width: 100%;
+}
+header .navbar-collapse.in .nav li,
+header .navbar-collapse.collapsing .nav li {
+  width: 100%;
+}
+header .header-menu a {
+  border-radius: 0;
+}
+header .navbar-header .logo {
+  margin: 20px;
+}
 header.main {
   background-image: -webkit-linear-gradient(top, #fcfcfc 0%, #f2ebea 100%);
   background-image: linear-gradient(to bottom, #fcfcfc 0%, #f2ebea 100%);
@@ -5890,13 +5926,14 @@ header.main li span.nav-sub-title {
   color: #333;
 }
 .hero {
-  height: 425px;
+  height: 600px;
   background-size: cover;
   background-position: center 95px;
   background-attachment: fixed;
-  padding-top: 110px;
+  padding: 120px 0 20px 0;
 }
 .hero .jumbotron {
+  margin-bottom: 0;
   margin: 0 30px;
   background-color: rgba(0, 0, 0, 0.5);
   color: #eee;
@@ -6032,6 +6069,20 @@ nav.post-stats li a {
   padding: 3px 5px;
   border-radius: 5px;
 }
+@media (max-width: 768px) {
+  .hero {
+    height: inherit;
+  }
+  .box {
+    height: inherit !important;
+  }
+  .box .img-wrapper img {
+    left: 0 !important;
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+}
 /*  Carousel Section */
 /* Sidebar Styles  */
 aside.widget-area ul {
@@ -6096,6 +6147,20 @@ aside.widget-area h2 {
   color: #333;
 }
 /* Single Post/Page Styles  */
+article,
+aside {
+  margin-top: 100px;
+}
+#post p,
+#post ul,
+#post ol {
+  margin: 0 0 20px;
+  line-height: 1.5;
+  font-size: 18px;
+}
+#post img {
+  margin: 0 auto;
+}
 .content {
   background: transparent;
 }
@@ -6128,6 +6193,9 @@ article.post footer.entry-meta {
 article.post footer.entry-meta a {
   color: #aaa;
 }
+.related-posts .box img {
+  width: 100% !important;
+}
 div#author-info {
   border: 1px dotted #222;
   border-radius: 5px;
@@ -6155,69 +6223,205 @@ div#author-info #author-description h2 {
   margin: 0;
 }
 /* Box Section */
-.box {
+.box,
+.rounded {
   padding: 0;
 }
-.box.active {
+.box.active,
+.rounded.active {
   height: 400px;
   overflow: hidden;
 }
-.box.active p {
+.box.active p,
+.rounded.active p {
   margin: 0;
 }
-.box .box-body {
+.box .box-body,
+.rounded .box-body {
   padding: 20px;
 }
-.box .box-body p {
+.box .box-body p,
+.rounded .box-body p {
   margin: 0;
   overflow: hidden;
 }
-.box .box-body h3 {
+.box .box-body h3,
+.rounded .box-body h3 {
   font: bold 26px Arial, Helvetica, sans-serif;
   color: #fff;
   margin: 5px 0 20px 0;
   line-height: 26px;
 }
-.box span.more {
+.box span.more,
+.rounded span.more {
   float: right;
 }
 .box span,
+.rounded span,
 .box time,
-.box address {
+.rounded time,
+.box address,
+.rounded address {
   display: inline;
 }
-.box footer {
+.box footer,
+.rounded footer {
   padding: 5px 0;
   width: 100%;
 }
-.box .fb-like {
+.box .fb-like,
+.rounded .fb-like {
   position: absolute;
   top: 175px;
   display: none;
 }
-.box .like-convert {
+.box .like-convert,
+.rounded .like-convert {
   top: 370px;
 }
-.box .details-convert {
+.box .details-convert,
+.rounded .details-convert {
   top: 370px;
 }
-.box .video-thumbs {
+.box .video-thumbs,
+.rounded .video-thumbs {
   display: none;
 }
-.box .video-thumbs img {
+.box .video-thumbs img,
+.rounded .video-thumbs img {
   padding: 5px;
 }
-.box .post-stats {
+.box .post-stats,
+.rounded .post-stats {
   position: absolute;
   top: 365px;
   right: 10px;
 }
-.box .img-wrapper {
+.box .img-wrapper,
+.rounded .img-wrapper {
   width: 100%;
   overflow: hidden;
 }
-.box .img-wrapper img {
+.box .img-wrapper img,
+.rounded .img-wrapper img {
   width: 150%;
   position: relative;
-  left: -50%;
+  left: -25%;
+  -webkit-filter: grayscale(80%);
+  transform: scale(1, 1);
+}
+.box .img-wrapper img:hover,
+.rounded .img-wrapper img:hover {
+  -webkit-filter: grayscale(0%);
+  -webkit-transition: 0.5s ease-in-out;
+  transform: scale(1.5, 1.5);
+}
+section {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  padding: 10% 0;
+  background-position: 50% 0;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+section#works {
+  background: #085704;
+}
+section.dark {
+  color: white;
+}
+section.light {
+  color: #666666;
+}
+section.video-block,
+section.post-block {
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+}
+section.video-block .section-content,
+section.post-block .section-content {
+  position: relative;
+  margin: 0 auto;
+  z-index: 100;
+  text-align: center;
+}
+section.video-block .section-content img,
+section.post-block .section-content img {
+  margin: 0 auto;
+}
+section.video-block {
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+section.video-block:first-of-type h2 {
+  margin-top: 30%;
+}
+section.video-block .section-content {
+  width: 50%;
+}
+section.video-block .section-content a {
+  color: white;
+  text-decoration: none;
+}
+section.video-block:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: black;
+  background: none\9;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+section.video-block.bgfade:before {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+section:first-of-type .section-content {
+  width: 100%;
+}
+section.noimage {
+  color: black;
+  background: white;
+  position: relative;
+}
+section.feature-block {
+  background: #930029;
+  padding: 5% 0;
+  color: black;
+}
+section.feature-block .feature-image {
+  text-align: right;
+}
+section.no-content {
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 15%;
+}
+section.folio {
+  padding: 10px 0;
+  background: black;
+  color: white;
+}
+section.folio .col-sm-3 {
+  margin: 0;
+  padding: 0;
 }

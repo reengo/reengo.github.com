@@ -1,4 +1,41 @@
 header{
+	height:95px;
+
+	.navbar-toggle{
+		margin-top:20px;
+	}
+
+	.navbar{
+		background:none;
+		border:none;
+	}
+
+	.navbar-collapse.in,.navbar-collapse.collapsing{
+		background:white;
+		padding:0;
+
+		.container{
+			width: 100%;
+		    margin: 0;
+		    padding: 0;
+		}
+
+		.nav{
+			width:100%;
+
+			li{ width:100%; }
+
+		}
+	}
+	.header-menu{
+		a{ border-radius:0 }
+	}
+
+	.navbar-header{
+		.logo{
+			margin:20px;
+		}
+	}
 	&.main{
 		#gradient.vertical(rgba(252,252,252,1); rgba(242,235,234,1); 0%; 100%);
 		
@@ -46,13 +83,14 @@ header{
 }
 
 .hero{
-	height: 425px;
+	height:600px;
 	background-size:cover;
 	background-position:center 95px;
 	background-attachment:fixed;
-	padding-top:95px;
+	padding: 120px 0 20px 0;
 
 	.jumbotron{
+		margin-bottom:0;
 		margin:0 30px;
 		background-color: rgba(0,0,0,0.5);
 		color: #eee;
