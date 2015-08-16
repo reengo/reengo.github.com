@@ -8,6 +8,8 @@ slug: new-rise-of-the-tomb-raider-gameplay-video
 title: New Rise of the Tomb Raider Gameplay Video
 categories:
 - Games
+- Action Adventure
+- 3rd Person
 tags:
 - tomb raider
 - square enix
@@ -23,9 +25,9 @@ featured_image: 'assets/images/riseoftombraider.jpg'
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/y31ifuSjanw" frameborder="0" allowfullscreen></iframe>
 
-These days, watching game trailers innevitably makes you amazed on how the level of realism has improved over the years. If you are a 90's kid and you are used to seeing Lara Croft in polygons with sharp edges before, you will consider this the definition of NEXT GEN Visuals!
+These days, watching game trailers innevitably makes amazes you. How the level of realism has improved over the years, how close to like-like these games are now. If you are a 90's kid and you are used to seeing Lara Croft in polygons with sharp edges, you will definitely consider this as 'NEXT GEN' Visuals!
 
-Amazing, AMAZING graphics... Physics has been more realistic than the first reboot on PS3 and the story seems to be more interesting and engaging. Have you noticed any difference between in-game graphics and cutsceens? THERE IS NONE! cinematics and gameplay are smoothly transitioned without delay. For most gamers that are used to playing the most recent games on X-Box One and PS4, this may be a common thing, but Its just plain gorgeous. 
+Amazing, AMAZING graphics... Physics have been more realistic than the first reboot on PS3 and the story seems to be more interesting and engaging as well. Having the same 'travel the world and raid tombs' kinda story. And have you noticed any difference between in-game graphics and cutsceens? THERE IS NONE! cinematics and gameplay are smoothly transitioned without delay. For most gamers that are used to playing the most recent games on X-Box One and PS4, this may be a common thing, but Its just plain gorgeous. 
 
 Release Date is set on November 10, 2015 on X-Box One. No confirmation for a PS4 Release yet but rumors state that there will be... I mean why not?
 

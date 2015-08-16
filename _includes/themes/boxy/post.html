@@ -1,12 +1,12 @@
 <div id="post">
   <h1>{{ page.title }}</h1>
   <p class="meta">
-    {{ page.date | date_to_long_string }} <!--| <span class="fb-like" data-href="{{page.url}}" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></span>-->
+    {{ page.date | date_to_long_string }}
     {% if page.location %}{{ page.location }}{% endif %}
-    <div class="ssk-group ssk-count" data-url="{{BASE_PATH}}/{{page.url}}" data-media="{{page.featured_image}}" data-text="- http://reengo.com{{page.url}}">
-        <a href="" class="ssk ssk-facebook"></a>
-        <a href="" class="ssk ssk-twitter"></a>
-        <a href="" class="ssk ssk-email"></a>
+    <div class="ssk-group" data-url="{{BASE_PATH}}/{{page.url}}" data-media="{{page.featured_image}}" data-text="- http://reengo.com{{page.url}}">
+        <a href="" class="ssk ssk-text ssk-facebook" >Share</a>
+        <a href="" class="ssk ssk-text ssk-twitter" >Tweet</a>
+        <a href="" class="ssk ssk-text ssk-email">Email</a>
     </div>
   </p>
   {{ content }}

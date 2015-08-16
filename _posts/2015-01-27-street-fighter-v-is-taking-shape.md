@@ -13,6 +13,7 @@ tags:
 - street fighter v
 - ryu
 - chunli
+- rise up
 featured_image: 'assets/images/hadouken.jpeg'
 ---
 
