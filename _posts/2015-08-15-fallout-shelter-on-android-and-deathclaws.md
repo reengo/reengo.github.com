@@ -29,7 +29,7 @@ Fallout Shelter has arrived on Android Phones at last! Android users will now be
 
 [![]({{BASE_PATH}}/assets/images/falloutshelter.jpg)]()
 
-2 months ago, the game was released for iOS and it became an instant hit. Not only because its a Fallout title, but also because its a fun game to play and really emersive at that. More so if you are a Fallout fan and you are one of those people that are too excited to see this trailer/announcement:
+[2 months ago, the game was released for iOS]({{BASE_PATH}}/fallout-shelter) and it became an instant hit. Not only because its a Fallout title, but also because its a fun game to play and really emersive at that. More so if you are a Fallout fan and you are one of those people that are too excited to see this trailer/announcement:
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/GE2BkLqMef4" frameborder="0" allowfullscreen></iframe>
 
