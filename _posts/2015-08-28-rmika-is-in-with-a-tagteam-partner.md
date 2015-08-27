@@ -21,7 +21,7 @@ tags:
 featured_image: 'assets/images/sfv-rmika.png'
 ---
 
-**R. Mika**, that busty and bouncy japanese wrestler joins in on the fight and she brings a long a tag team partner, **Nadeshiko** 
+**R. Mika**, that busty and bouncy japanese wrestler joins in on the fight and she brings a ong a tag team partner, **Nadeshiko** 
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/PuVsrCl89Ns" frameborder="0" allowfullscreen></iframe> 
 
@@ -30,11 +30,11 @@ Honestly, I'm not that excited to see her back... she's annoying as hell! But be
 
 [![Nadeshiko Assists R. Mika]({{ BASE_PATH }}/assets/images/sfv-rmika-nadeshiko.png)]({{ BASE_PATH }}/assets/images/2015-8-sfv-roster.jpg)
 
-Nadeshiko also joins in for the assists. Could be a good variety since this would be the first time its gonna happen since Street Fighter Alpha.
+Nadeshiko also joins in for the assists for R. Mika. Could be a good variety since we've missed a lot of this since Street Fighter Alpha.
 
 [![Butt Load of Finish]({{ BASE_PATH }}/assets/images/sfv-rmika-tagteam.png)]({{ BASE_PATH }}/assets/images/2015-8-sfv-roster.jpg)
 
-Though not a playable character (I could be wrong sooner or later ). Nadeshiko looks fun to watch using R.Mika. This also makes their story arc interesting as well.
+Though not a playable character (I could be wrong ). **Nadeshiko** looks fun to watch when using R.Mika, this also makes their story arc a whole lot interesting.
 
 
 Official Roster
