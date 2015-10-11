@@ -11,6 +11,11 @@ wordpress_id: 1659
 categories:
 - OS X
 - Tutorials
+tags:
+- osx
+- macbook pro
+- ftp
+- apple
 featured_image: 'assets/images/Mavericks.jpg'
 ---
 

@@ -12,29 +12,40 @@ tags:
 - fallout shelter
 - fallout
 - fallout 4
+- mr handy
 - 
-featured_image: 'assets/images/sfv-rmika.png'
+featured_image: 'assets/images/falloutshelter-mr-handy02.jpg'
 ---
 
-**R. Mika**, that busty and bouncy japanese wrestler joins in on the fight and she brings a ong a tag team partner, **Nadeshiko** 
+Sometimes, curiousity is a good marketing tool.
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/PuVsrCl89Ns" frameborder="0" allowfullscreen></iframe> 
+I was sending my dwellers to the wasteland like crazy just to try and validate a rumor that Mr Handy can be found there if you're lucky enough... well... I got impatient.
 
+I purchased a dollar worth of helper bot that practically does... nothing much. 
 
-Honestly, I'm not that excited to see her back... she's annoying as hell! But better her than **El Fuerte!** :D
+[![Mr Handy Purchase]({{ BASE_PATH }}/assets/images/fallout-mr-handy01.png)]({{ BASE_PATH }}/assets/images/fallout-mr-handy01.png)
 
-[![Nadeshiko Assists R. Mika]({{ BASE_PATH }}/assets/images/sfv-rmika-nadeshiko.png)]({{ BASE_PATH }}/assets/images/2015-8-sfv-roster.jpg)
+Well atleast it helps you around with collecting resources and stuff.
 
-Nadeshiko also joins in for the assists for R. Mika. Could be a good variety since we've missed a lot of this since Street Fighter Alpha.
+Good Stuff:
+===
 
-[![Butt Load of Finish]({{ BASE_PATH }}/assets/images/sfv-rmika-tagteam.png)]({{ BASE_PATH }}/assets/images/2015-8-sfv-roster.jpg)
+ 1. On collect mode, you can leave Mr Handy to do collect resources on 1 floor... just 1 floor.
+ 2. Mr handy can help put out fires, defend against molerats, radroaches, raiders and deathclaws... good luck with that.
+ 3. Can be sent out on the wasteland to collect bottle caps
+ 4. Does not take damage while on the wasteland
 
-Though not a playable character (I could be wrong ). **Nadeshiko** looks fun to watch when using R.Mika, this also makes their story arc a whole lot interesting.
+Not So Good Stuff:
+===
 
+ 1. You need to buy more Mr Handy to collect on multiple floors
+ 2. Not very sturdy and can be broken but can also be repaired with 2000 bottle caps
+ 3. Can only have 5 exploring the wasteland at a time.
 
-Official Roster
----
+[![Mr Handy Switch]({{ BASE_PATH }}/assets/images/falloutshelter-mr-handy02.jpg)]({{ BASE_PATH }}/assets/images/falloutshelter-mr-handy02.jpg)
 
-Going back to the current official roster, we are down to 6 reveals left... ( Capcom, when will Karin be revealed...? )
+Its still fun to watch him go around and try to be good helper bot though. Try giving it a shot, its just $0.99 anyways... $3.99 buys you 5. 
 
-[![Current Street Fighter V Launch Roster Aug 2015]({{ BASE_PATH }}/assets/images/2015-8-28-sfv-roster.jpg)]({{ BASE_PATH }}/assets/images/2015-8-sfv-roster.jpg)
+But here's one robot worth watching more though... :D
+
+[![Mr Robot]({{ BASE_PATH }}/assets/images/mr-robot01.jpg)]({{ BASE_PATH }}/assets/images/mr-robot01.jpg)
