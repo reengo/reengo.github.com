@@ -1,7 +1,7 @@
 ---
 author: admin
 comments: true
-date: 2015-10-30 2:17:49+00:00
+date: 2015-11-1 5:17:49+00:00
 layout: post
 published: true
 slug: visualizing-commits-with-gource
