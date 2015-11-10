@@ -17,6 +17,7 @@ tags:
 - funstuff
 - until august
 featured_image: 'assets/images/chargetix.jpg'
+thumbnail: 'assets/images/tmb/tmb-chargetix.jpg'
 ---
 
 [![](../assets/images/charge.jpg)](http://www.reengo.com/charge-to-experience/charge)

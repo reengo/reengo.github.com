@@ -15,6 +15,7 @@ tags:
 - chunli
 - rise up
 featured_image: 'assets/images/hadouken.jpeg'
+thumbnail: 'assets/images/tmb/tmb-hadouken.jpeg'
 ---
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/kKX6_dXTwXE" frameborder="0" allowfullscreen></iframe>

@@ -16,6 +16,7 @@ tags:
 - requirejs
 - knockoutjs
 featured_image: 'assets/images/durandal.jpg'
+thumbnail: 'assets/images/tmb/tmb-durandal.jpg'
 ---
 
 ###Durandal

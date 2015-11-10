@@ -20,6 +20,7 @@ tags:
 - facebook
 - instagram
 featured_image: 'assets/images/photo_3868.jpg'
+thumbnail: 'assets/images/tmb/tmb-photo_3868.jpg'
 ---
 
 [ ![]({{BASE_PATH}}/assets/images/fbcover5.png) ]({{BASE_PATH}}/assets/images/fbcover5.png)

@@ -15,6 +15,7 @@ tags:
 - square enix
 - ps4
 featured_image: 'assets/images/ffxv.jpg'
+thumbnail: 'assets/images/tmb/tmb-ffxv.jpg'
 ---
 
 

@@ -14,6 +14,7 @@ tags:
 - modulo
 - front end
 featured_image: 'assets/images/html5_and_css3_logos_1.jpg'
+thumbnail: 'assets/images/tmb/tmb-html5_and_css3_logos_1.jpg'
 ---
 
 Did you know that you can create columns from a single list (UL/OL) with pure CSS? It certainly is great to have this feature on CSS3 since you wont need to bother scripting it out on javascript. And it might lessen the need for you to do tables as well... those damn tables...

@@ -14,6 +14,7 @@ tags:
 - rpg
 - episodic games
 featured_image: 'assets/images/life-is-strange2.jpg'
+thumbnail: 'assets/images/tmb/tmb-life-is-strange2.jpg'
 ---
 
 Remember that [Episodic Game]({{BASE_PATH}}/life-is-strange) I blogged about? Its already on Episode 4...

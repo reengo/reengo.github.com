@@ -14,6 +14,7 @@ tags:
 - pewdiepie
 - youtube
 featured_image: 'assets/images/maxresdefault.jpg'
+thumbnail: 'assets/images/tmb/tmb-maxresdefault.jpg'
 ---
 
 Found such an informative video about how youtube works. This also answers the question, why is PewDiePie famous? :D Try subscribing to Game Theory, you'll surely learn a lot from this channel. :D

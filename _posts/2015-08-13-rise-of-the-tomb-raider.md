@@ -21,6 +21,7 @@ tags:
 - rise of the tomb raider
 - ps4
 featured_image: 'assets/images/riseoftombraider.jpg'
+thumbnail: 'assets/images/tmb/tmb-riseoftombraider.jpg'
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/y31ifuSjanw" frameborder="0" allowfullscreen></iframe>

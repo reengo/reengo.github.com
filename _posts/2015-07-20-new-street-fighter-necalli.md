@@ -14,6 +14,7 @@ tags:
 - street fighter
 - street fighter v
 featured_image: 'assets/images/sfv-necalli.jpg'
+thumbnail: 'assets/images/tmb/tmb-sfv-necalli.jpg'
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/OzrPqNHB1bo" frameborder="0" allowfullscreen></iframe>

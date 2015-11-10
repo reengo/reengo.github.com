@@ -19,6 +19,7 @@ tags:
 - mr handy
 - lunch box
 featured_image: 'assets/images/falloutshelter-mrhandy.jpg'
+thumbnail: 'assets/images/tmb/tmb-falloutshelter-mrhandy.jpg'
 ---
 
 Mr Handy Cracks a Joke and I Ain't Laughing

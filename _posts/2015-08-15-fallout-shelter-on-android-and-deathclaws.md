@@ -20,6 +20,7 @@ tags:
 - release
 - deathclaws
 featured_image: 'assets/images/falloutshelter-1.png'
+thumbnail: 'assets/images/tmb/tmb-falloutshelter-1.png'
 ---
 
 Finally!

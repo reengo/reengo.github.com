@@ -15,6 +15,7 @@ tags:
 - bootstrap
 - responsive web
 featured_image: 'assets/images/Content_is_like_water.png'
+thumbnail: 'assets/images/tmb/tmb-Content_is_like_water.jpg'
 ---
 
 [![]({{ BASE_PATH }}/assets/images/Content_is_like_water.png)]({{ BASE_PATH }}/assets/images/Content_is_like_water.png)

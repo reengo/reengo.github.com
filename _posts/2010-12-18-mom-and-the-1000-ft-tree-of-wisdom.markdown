@@ -15,6 +15,7 @@ tags:
 - plants vs zombies
 - tree of wisdom
 featured_image: 'assets/images/PvZ_Title_1024_600.jpg'
+thumbnail: 'assets/images/tmb/tmb-PvZ_Title_1024_600.jpg'
 ---
 
 While addicted to the game, I told my mom that there would be a big surprise if she is to grow the tree of wisdom to 1000 ft... Today is the day she accomplishes just that!

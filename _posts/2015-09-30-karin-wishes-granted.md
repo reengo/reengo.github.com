@@ -18,6 +18,7 @@ tags:
 - roster predictions
 - reveal
 featured_image: 'assets/images/sfv-karin01.jpg'
+thumbnail: 'assets/images/tmb/tmb-sfv-karin01.jpg'
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/BfiHt3o10mE" frameborder="0" allowfullscreen></iframe> 

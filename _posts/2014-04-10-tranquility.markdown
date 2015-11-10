@@ -19,6 +19,7 @@ tags:
 - prismatic orb
 - reen
 featured_image: 'assets/images/tranquility.jpg'
+thumbnail: 'assets/images/tmb/tmb-tranquility.jpg'
 ---
 
 I've just revisited my old [deviant art account](http://laszio.deviantart.com/)... made me miss drawing so much that I remember this tranquil feeling when I finish a work. I feel I've contributed something good to society no matter how small it is, I figured I could have inspired someone in my own unique way.

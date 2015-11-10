@@ -14,6 +14,7 @@ tags:
 - web development
 - commit
 featured_image: 'assets/images/gource.jpg'
+thumbnail: 'assets/images/tmb-tmb-gource.jpg'
 ---
 
 

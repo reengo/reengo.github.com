@@ -14,6 +14,7 @@ tags:
 - street fighter v
 - teaser
 featured_image: 'assets/images/sfv-ken.jpg'
+thumbnail: 'assets/images/tmb/tmb-sfv-ken.jpg'
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/8lwOe5y8gIk" frameborder="0" allowfullscreen></iframe>

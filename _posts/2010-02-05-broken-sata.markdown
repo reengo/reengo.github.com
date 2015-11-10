@@ -2,9 +2,7 @@
 author: admin
 comments: true
 date: 2010-02-05 04:28:15+00:00
-excerpt: 'reboot and select proper boot device
-
-  or insert boot media in selected boot device and select any key to continue'
+excerpt: 'reboot and select proper boot device or insert boot media in selected boot device and select any key to continue'
 layout: post
 slug: broken-sata
 title: Broken SATA

@@ -17,6 +17,7 @@ tags:
 - twitter
 - work
 featured_image: 'assets/images/bloggerlogo.png'
+thumbnail: 'assets/images/tmb/tmb-bloggerlogo.png'
 ---
 
 I've been synchronizing blogs all night, and after a sudden feel of pain on the neck. I figured, WHADDAHELL AM I DOING THIS FOR!?

@@ -16,6 +16,7 @@ tags:
 - game developement
 - javascript
 featured_image: 'assets/images/html5gamedevtalk.png'
+thumbnail: 'assets/images/tmb/tmb-html5gamedevtalk.png'
 ---
 
 <iframe class="center-block" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" width="100%" height="400" src="https://prezi.com/embed/hjxnoeyasjl_/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWmlSa1k1MmNRK3VoaXFhTktOQVp1T28xbWd0cFpDVEZZclJ1dFZFODhLVFA1aXUyV0dINmRRZXlWTT0&amp;landing_sign=Hc8R29Tj-nAFt927VF-oHi60TaQvnLN8WnkeTDuquaY#"></iframe>

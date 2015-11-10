@@ -17,6 +17,7 @@ tags:
 - tumblr
 - twitter
 featured_image: 'assets/images/dashboard.png'
+thumbnail: 'assets/images/tmb/tmb-dashboard.jpg'
 ---
 
 I've been getting lots of links to these blogging platforms so I decided to try them. I've just created a Plurk page and tidied up my Tumblr account to explore the features and whatnot and both of them looks nice.

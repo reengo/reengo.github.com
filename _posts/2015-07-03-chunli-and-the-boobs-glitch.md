@@ -15,6 +15,7 @@ tags:
 - bewbs
 - DOA
 featured_image: 'assets/images/sfv-chun-li-artwork.jpg'
+thumbnail: 'assets/images/tmb/tmb-sfv-chun-li-artwork.jpg'
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/eAlKC9BlUJg" frameborder="0" allowfullscreen></iframe>

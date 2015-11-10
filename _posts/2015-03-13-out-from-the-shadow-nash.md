@@ -15,6 +15,7 @@ tags:
 - nash
 - sonic boom
 featured_image: 'assets/images/nash.jpg'
+thumbnail: 'assets/images/tmb/tmb-nash.jpg'
 ---
 
 This Game is getting more and more exciting that it ever was... Charlie Nash is back!

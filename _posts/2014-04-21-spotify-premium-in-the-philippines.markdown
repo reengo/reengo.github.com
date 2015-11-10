@@ -13,6 +13,7 @@ tags:
 - music streaming
 - spotify
 featured_image: 'assets/images/spotify-logo-primary-horizontal-dark-background-rgb.jpg'
+thumbnail: 'assets/images/tmb/tmb-spotify-logo.jpg'
 ---
 
 ![](http://www.adweek.com/files/imagecache/node-detail/news_article/spotify-coke-hed-2012.jpg)

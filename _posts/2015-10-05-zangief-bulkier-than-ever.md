@@ -18,6 +18,7 @@ tags:
 - roster predictions
 - reveal
 featured_image: 'assets/images/sfv-zangief01.jpg'
+thumbnail: 'assets/images/tmb/tmb-sfv-zangief01.jpg'
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/MQxJVh9iJq0" frameborder="0" allowfullscreen></iframe> 

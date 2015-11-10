@@ -16,6 +16,7 @@ tags:
 - street fighter
 - usf4
 featured_image: 'assets/images/rose-s4.png'
+thumbnail: 'assets/images/tmb/tmb-rose-s4.jpg'
 ---
 
 Looks like we now have a final list of nerfs and buffs for Ultra Street Fighter IV. Checkout this [list from Shoryuken.com

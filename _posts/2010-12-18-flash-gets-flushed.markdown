@@ -9,6 +9,7 @@ wordpress_id: 876
 categories:
 - Code Review on Life
 featured_image: 'assets/images/Picture-41.png'
+thumbnail: 'assets/images/tmb/tmb-Picture-41.jpg'
 ---
 
 There has been a lot of recent talks regarding Apple's explicit denial of support for Adobe flash on their devices. Its too buggy for the iphone they say. well... yes, it will have problems, as it always have. but isn't this move a bit risky? flash has been there since the old days where *\<marquee\>* was still cool. Flash revolutionised the way we access content on the web. provided us with videos, interactive websites and games, tons of games! over the years, it may have been hundreds of thousands of these content are still served using Flash. and with this recent gutsy move by Apple, they could be missing out of almost half of the internet.

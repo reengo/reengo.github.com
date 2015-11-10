@@ -16,6 +16,7 @@ tags:
 - beta release
 - character predictions
 featured_image: 'assets/images/sfv-vega.jpg'
+thumbnail: 'assets/images/tmb/tmb-sfv-vega.jpg'
 ---
 
 Vega... He's in... so it seems like one of my predictions won't be coming back after all...

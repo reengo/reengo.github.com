@@ -18,6 +18,7 @@ tags:
 - park square
 - work
 featured_image: 'assets/images/nbi-300x185.jpg'
+thumbnail: 'assets/images/tmb/tmb-nbi-300x185.jpg'
 ---
 
 [![NBI Clearance Renewal Card]({{BASE_PATH}}/assets/images/nbi-300x185.jpg)]({{BASE_PATH}}/assets/images/nbi-300x185.jpg)

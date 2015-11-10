@@ -18,6 +18,7 @@ tags:
 - roster predictions
 - reveal
 featured_image: 'assets/images/sfv-dhalsim-main.jpg'
+thumbnail: 'assets/images/tmb/tmb-sfv-dhalsim-main.jpg'
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/Syn4MfYnwjI" frameborder="0" allowfullscreen></iframe> 

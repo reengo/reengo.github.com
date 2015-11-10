@@ -15,6 +15,7 @@ tags:
 - mr handy
 - 
 featured_image: 'assets/images/falloutshelter-mr-handy02.jpg'
+thumbnail: 'assets/images/tmb/tmb-falloutshelter-mr-handy02.jpg'
 ---
 
 Sometimes, curiousity is a good marketing tool.

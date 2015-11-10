@@ -13,6 +13,7 @@ published: true
 post_format:
 - Gallery
 featured_image: 'assets/images/3455550-bftjexk.jpg'
+thumbnail: 'assets/images/tmb/tmb-3455550-bftjexk.jpg'
 ---
 
 [![rwby_by_montyoum-d5kjod7](../assets/images/rwby_by_montyoum-d5kjod7.jpg)](../assets/images/rwby_by_montyoum-d5kjod7.jpg)

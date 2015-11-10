@@ -18,6 +18,7 @@ tags:
 - charlie
 - nash
 featured_image: 'assets/images/bison.jpg'
+thumbnail: 'assets/images/tmb/tmb-bison.jpg'
 ---
 
 First Set of Rosters are in... what's next?

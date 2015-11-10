@@ -10,6 +10,7 @@ wordpress_id: 1333
 categories:
 - Tools
 featured_image: 'assets/images/linktracker.jpg'
+thumbnail: 'assets/images/tmb/tmb-linktracker.jpg'
 ---
 
 Link tracker is a simple crawling tool for tracking links within a webpage. Link tracker checks if the link is in the correct search engine friendly format, whether it has a no_follow attribute or not and what anchor text was used to display the link. You can export your results in an excel file as needed.
