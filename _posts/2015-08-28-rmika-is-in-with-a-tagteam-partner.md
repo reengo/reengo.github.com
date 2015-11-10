@@ -19,7 +19,7 @@ tags:
 - rmika
 - nadeshiko
 featured_image: 'assets/images/sfv-rmika.png'
-thumbnail: 'assets/images/tmb/tmb-sfv-rmika.jpg'
+thumbnail: 'assets/images/tmb/tmb-sfv-rmika-tagteam.jpg'
 ---
 
 **R. Mika**, that busty and bouncy japanese wrestler joins in on the fight and she brings a ong a tag team partner, **Nadeshiko** 

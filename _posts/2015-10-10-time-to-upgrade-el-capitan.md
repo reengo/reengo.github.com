@@ -15,7 +15,7 @@ tags:
 - apple
 - operating system
 featured_image: 'assets/images/osx-elcapitan-fall.jpg'
-thumbnail: 'assets/images/tmb/tmb-osx-elcapitan-fall.jpg'
+thumbnail: 'assets/images/tmb/tmb-osx-elcapitan-main.jpg'
 ---
 
 

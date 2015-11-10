@@ -15,7 +15,7 @@ tags:
 - release
 - character predictions
 featured_image: 'assets/images/karinsfa.jpg'
-thumbnail: 'assets/images/tmb/tmb-sfv-necalli.jpg'
+thumbnail: 'assets/images/tmb/tmb-ryu1.jpg'
 ---
 
 

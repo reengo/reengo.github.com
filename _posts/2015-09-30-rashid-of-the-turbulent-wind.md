@@ -19,7 +19,7 @@ tags:
 - reveal
 - new character
 featured_image: 'assets/images/sfv-rashid02.jpg'
-thumbnail: 'assets/images/tmb/tmb-sfv-rashid02.jpg'
+thumbnail: 'assets/images/tmb/tmb-sfv-rashid01.jpg'
 ---
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/krhjbvCDwRM" frameborder="0" allowfullscreen></iframe> 

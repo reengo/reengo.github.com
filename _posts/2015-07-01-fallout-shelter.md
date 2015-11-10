@@ -16,7 +16,7 @@ tags:
 - pip boy
 - special
 featured_image: 'assets/images/falloutshelter-lineup.png'
-thumbnail: 'assets/images/tmb/tmb-falloutshelter-lineup.png'
+thumbnail: 'assets/images/tmb/tmb-falloutshelter-lineup.jpg'
 ---
 
 Build and Watch 

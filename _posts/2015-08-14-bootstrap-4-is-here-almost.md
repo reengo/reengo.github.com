@@ -18,7 +18,7 @@ tags:
 - css3
 - html5
 featured_image: 'assets/images/bs4-alpha.png'
-thumbnail: 'assets/images/tmb/tmb-bs4-alpha.png'
+thumbnail: 'assets/images/tmb/tmb-bs4-alpha.jpg'
 ---
 
 
