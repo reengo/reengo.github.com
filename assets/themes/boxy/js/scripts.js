@@ -11,7 +11,7 @@ $(document).ready(function(){
 	});
 
 	//lazyloading
-	var postsPerPage = 100;
+	var postsPerPage = 12;
 	var postsCount = postsPerPage;
 	var totalPosts = $('.posts li').length;
 

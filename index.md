@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: A New Code Monkey Blog has Arrived!
+title: A Code Monkey Blog
 tagline: Homepage
 ---
 {% include JB/setup %}
