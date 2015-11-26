@@ -2,4 +2,6 @@
 <meta property="og:site_name" content="{{ site.title }} :: {{ page.title }}"/>
 <meta name="author" content="{{ site.author.name }}" />
 <meta property="og:url" content="http://www.reengo.com/{{ page.slug }}/" />
-<meta property="og:description" content="{{ page.content | truncatewords: 100 | strip_html }} " />
+<meta property="og:description" content="{{ page.content | markdownify | strip_html | truncatewords: 50 }}">
+<meta property="fb:app_id" content="111485935582499" />
+<meta property="og:type" content="article" />
