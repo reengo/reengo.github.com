@@ -3,12 +3,13 @@
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" >
-   <meta property="og:title" content="{{ page.title }}" />
+   <meta property="og:title" content="{{ post.title }}" />
   <meta property="og:site_name" content="{{ site.title }}"/>
   <meta property="og:url" content="{{ BASE_PATH }}/{{ page.slug }}" />
   <meta property="og:description" content="{{ post.content | strip_html | truncatewords: 10 }}" />
   <meta property="og:type" content="article" />
-  <meta property="og:image" content="{{page.featured_image}}" />
+  <meta property="fb:app_id" content="111485935582499" />
+  <meta property="og:image" content="{{ post.featured_image}}" />
    <title>{{ page.title }}</title>
 
    {% include themes/boxy/meta.html %}
