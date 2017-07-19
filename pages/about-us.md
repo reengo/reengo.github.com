@@ -5,7 +5,8 @@ description: ""
 ---
 {% include JB/setup %}
 
-#About Reengo
+About Reengo
+=======
 
 [![Reengo Banner]({{BASE_PATH}}/assets/images/reengo.png)]({{BASE_PATH}}/assets/images/reengo.png)
 
